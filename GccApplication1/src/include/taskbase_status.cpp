@@ -62,6 +62,7 @@ void TaskBase::print_status (emstream& ser_dev)
 	{
 		ser_dev.putchar ('\t');
 	}
+	/***
 	ser_dev << (uint8_t)(uxTaskPriorityGet (handle)) << PMS ("\t")
 			<< get_state ()
 		#if (INCLUDE_uxTaskGetStackHighWaterMark == 1)
@@ -69,6 +70,7 @@ void TaskBase::print_status (emstream& ser_dev)
 			<< (size_t)(get_total_stack ()) << PMS ("\t")
 		#endif
 			<< PMS ("\t") << runs;
+	***/
 }
 
 

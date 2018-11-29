@@ -73,9 +73,9 @@
 
 #ifndef FREERTOS_CONFIG_H
 #define FREERTOS_CONFIG_H
-#define F_CPU 1
-#include <avr/io.h>
 
+#include <avr/io.h>
+#include "ME507.h"
 /*-----------------------------------------------------------
  * Application specific definitions.
  *

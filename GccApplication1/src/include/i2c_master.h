@@ -49,7 +49,7 @@
 #define I2C_BITRATE 100000L
 
 /// the following defines have been added for the 507 project
-#define F_CPU       100000L
+//#define F_CPU       100000L
 //#define TWCR    	100000L
 #define TWINT       7
 #define TWSTO       4

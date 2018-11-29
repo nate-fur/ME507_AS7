@@ -362,7 +362,11 @@ class emstream
 		}
 
 		// This operator writes an 8-bit unsigned number to a serial device
-		emstream& operator << (uint8_t);
+		emstream& operator << (uint8_t uint)
+		{
+			putchar (uint);
+			return (*this);
+		}
 
 		// This operator writes an 8-bit signed number to a serial device
 		emstream& operator << (int8_t);

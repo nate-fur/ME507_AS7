@@ -11,11 +11,11 @@
 #define FIRST_GEAR_LEVEL 1
 #define SECOND_GEAR_LEVEL 2
 #define THIRD_GEAR_LEVEL 3
-
+	
 gear_shifter::gear_shifter(const char *a_name, unsigned char a_priority, size_t a_stack_size, emstream *p_ser_dev,
                            semi_truck_data_t *semi_data_in)
-		: TaskBase::TaskBase(a_name, a_priority, a_stack_size, p_ser_dev),
-		Servo::Servo()
+		: servo::servo(), 
+		TaskBase::TaskBase(a_name, a_priority, a_stack_size, p_ser_dev)
 {
 	semi_data = semi_data_in;
 	shift_to_first();

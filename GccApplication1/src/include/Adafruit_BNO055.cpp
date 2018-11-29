@@ -16,12 +16,10 @@
  ***************************************************************************/
 
 
-#include "avr/Arduino.h"
-
 #include <math.h>
 #include <limits.h>
 #include <unistd.h>
-//#include <cstdio.h>
+
 
 #include "Adafruit_BNO055.h"
 #include "include/i2c_master.h"
@@ -59,18 +57,13 @@ Adafruit_BNO055::Adafruit_BNO055(int32_t sensorID, uint8_t address)
 bool Adafruit_BNO055::begin(adafruit_bno055_opmode_t mode)
 {
     /* Enable I2C */
-    //Wire.begin();
 
-    // BNO055 clock stretches for 500us or more!
-    #ifdef ESP8266
-        Wire.setClockStretchLimit(1000); // Allow for 1000us of clock stretching
-    #endif
 
     /* Make sure we have the right device */
     uint8_t id = read8(BNO055_CHIP_ID_ADDR);
     if(id != BNO055_ID)
     {
-        delay(1000); // hold on for boot
+        //sleep(1000); // hold on for boot
         id = read8(BNO055_CHIP_ID_ADDR);
         if(id != BNO055_ID) {
             return false;  // still not? ok bail
@@ -84,13 +77,13 @@ bool Adafruit_BNO055::begin(adafruit_bno055_opmode_t mode)
     write8(BNO055_SYS_TRIGGER_ADDR, 0x20);
     while (read8(BNO055_CHIP_ID_ADDR) != BNO055_ID)
     {
-        delay(10);
+        //sleep(10);
     }
-    delay(50);
+    //sleep(50);
 
     /* Set to normal power mode */
     write8(BNO055_PWR_MODE_ADDR, POWER_MODE_NORMAL);
-    delay(10);
+    //sleep(10);
 
     write8(BNO055_PAGE_ID_ADDR, 0);
 
@@ -107,16 +100,16 @@ bool Adafruit_BNO055::begin(adafruit_bno055_opmode_t mode)
     /* Configure axis mapping (see section 3.4) */
     /*
     write8(BNO055_AXIS_MAP_CONFIG_ADDR, REMAP_CONFIG_P2); // P0-P7, Default is P1
-    delay(10);
+    //sleep(10);
     write8(BNO055_AXIS_MAP_SIGN_ADDR, REMAP_SIGN_P2); // P0-P7, Default is P1
-    delay(10);
+    //sleep(10);
     */
 
     write8(BNO055_SYS_TRIGGER_ADDR, 0x0);
-    delay(10);
+    //sleep(10);
     /* Set the requested operating mode (see section 3.3) */
     setMode(mode);
-    delay(20);
+    //sleep(20);
 
     return true;
 }
@@ -130,7 +123,7 @@ void Adafruit_BNO055::setMode(adafruit_bno055_opmode_t mode)
 {
     _mode = mode;
     write8(BNO055_OPR_MODE_ADDR, _mode);
-    delay(30);
+    //sleep(30);
 }
 
 /**************************************************************************/
@@ -143,12 +136,12 @@ void Adafruit_BNO055::setAxisRemap( adafruit_bno055_axis_remap_config_t remapcod
     adafruit_bno055_opmode_t modeback = _mode;
 
     setMode(OPERATION_MODE_CONFIG);
-    delay(25);
+    //sleep(25);
     write8(BNO055_AXIS_MAP_CONFIG_ADDR, remapcode);
-    delay(10);
+    //sleep(10);
     /* Set the requested operating mode (see section 3.3) */
     setMode(modeback);
-    delay(20);
+    //sleep(20);
 }
 
 /**************************************************************************/
@@ -161,12 +154,12 @@ void Adafruit_BNO055::setAxisSign( adafruit_bno055_axis_remap_sign_t remapsign )
     adafruit_bno055_opmode_t modeback = _mode;
 
     setMode(OPERATION_MODE_CONFIG);
-    delay(25);
+    //sleep(25);
     write8(BNO055_AXIS_MAP_SIGN_ADDR, remapsign);
-    delay(10);
+    //sleep(10);
     /* Set the requested operating mode (see section 3.3) */
     setMode(modeback);
-    delay(20);
+    //sleep(20);
 }
 
 
@@ -181,17 +174,17 @@ void Adafruit_BNO055::setExtCrystalUse(bool usextal)
 
     /* Switch to config mode (just in case since this is the default) */
     setMode(OPERATION_MODE_CONFIG);
-    delay(25);
+    //sleep(25);
     write8(BNO055_PAGE_ID_ADDR, 0);
     if (usextal) {
         write8(BNO055_SYS_TRIGGER_ADDR, 0x80);
     } else {
         write8(BNO055_SYS_TRIGGER_ADDR, 0x00);
     }
-    delay(10);
+    //sleep(10);
     /* Set the requested operating mode (see section 3.3) */
     setMode(modeback);
-    delay(20);
+    //sleep(20);
 }
 
 
@@ -246,7 +239,7 @@ void Adafruit_BNO055::getSystemStatus(uint8_t *system_status, uint8_t *self_test
     if (system_error != 0)
         *system_error     = read8(BNO055_SYS_ERR_ADDR);
 
-    delay(200);
+    //sleep(200);
 }
 
 /**************************************************************************/
@@ -410,7 +403,7 @@ void Adafruit_BNO055::getSensor(sensor_t *sensor)
     sensor->version     = 1;
     sensor->sensor_id   = _sensorID;
     sensor->type        = SENSOR_TYPE_ORIENTATION;
-    sensor->min_delay   = 0;
+    //sensor->min_sleep   = 0;
     sensor->max_value   = 0.0F;
     sensor->min_value   = 0.0F;
     sensor->resolution  = 0.01F;
@@ -471,7 +464,7 @@ bool Adafruit_BNO055::getSensorOffsets(adafruit_bno055_offsets_t &offsets_type)
     {
         adafruit_bno055_opmode_t lastMode = _mode;
         setMode(OPERATION_MODE_CONFIG);
-        delay(25);
+        //sleep(25);
 
         /* Accel offset range depends on the G-range:
            +/-2g  = +/- 2000 mg
@@ -520,7 +513,7 @@ void Adafruit_BNO055::setSensorOffsets(const uint8_t* calibData)
 {
     adafruit_bno055_opmode_t lastMode = _mode;
     setMode(OPERATION_MODE_CONFIG);
-    delay(25);
+    //sleep(25);
 
     /* Note: Configuration will take place only when user writes to the last
        byte of each config data pair (ex. ACCEL_OFFSET_Z_MSB_ADDR, etc.).
@@ -567,7 +560,7 @@ void Adafruit_BNO055::setSensorOffsets(const adafruit_bno055_offsets_t &offsets_
 {
     adafruit_bno055_opmode_t lastMode = _mode;
     setMode(OPERATION_MODE_CONFIG);
-    delay(25);
+    //sleep(25);
 
     /* Note: Configuration will take place only when user writes to the last
        byte of each config data pair (ex. ACCEL_OFFSET_Z_MSB_ADDR, etc.).

@@ -62,25 +62,35 @@ SUBDIRS :=  \
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS +=  \
+../src/ATMega/communication_data.cpp \
 ../src/ATMega/fifth_wheel.cpp \
 ../src/ATMega/gear_shifter.cpp \
 ../src/ATMega/imu_task.cpp \
+../src/ATMega/mega_comm_task.cpp \
 ../src/ATMega/motor_driver.cpp \
-../src/ATMega/Servo.cpp \
+../src/ATMega/servo.cpp \
 ../src/ATMega/steer_servo.cpp \
 ../src/ATMega/wheel_speed.cpp \
 ../src/config/mega/boards/stk600/rcx_x/init.c \
 ../src/include/Adafruit_BNO055.cpp \
 ../src/include/base232.cpp \
 ../src/include/baseshare.cpp \
+../src/include/croutine.c \
 ../src/include/emstream.cpp \
+../src/include/event_groups.c \
+../src/include/heap_2.c \
 ../src/include/i2c_master.cpp \
+../src/include/list.c \
 ../src/include/mechutil.cpp \
+../src/include/port.c \
+../src/include/queue.c \
 ../src/include/rs232int.cpp \
 ../src/include/taskbase.cpp \
 ../src/include/taskbase_stackprt.cpp \
 ../src/include/taskbase_status.cpp \
+../src/include/tasks.c \
 ../src/include/textqueue.cpp \
+../src/include/timers.c \
 ../src/main.cpp \
 ../src/main_mega.cpp
 
@@ -92,94 +102,134 @@ ASM_SRCS +=
 
 
 OBJS +=  \
+src/ATMega/communication_data.o \
 src/ATMega/fifth_wheel.o \
 src/ATMega/gear_shifter.o \
 src/ATMega/imu_task.o \
+src/ATMega/mega_comm_task.o \
 src/ATMega/motor_driver.o \
-src/ATMega/Servo.o \
+src/ATMega/servo.o \
 src/ATMega/steer_servo.o \
 src/ATMega/wheel_speed.o \
 src/config/mega/boards/stk600/rcx_x/init.o \
 src/include/Adafruit_BNO055.o \
 src/include/base232.o \
 src/include/baseshare.o \
+src/include/croutine.o \
 src/include/emstream.o \
+src/include/event_groups.o \
+src/include/heap_2.o \
 src/include/i2c_master.o \
+src/include/list.o \
 src/include/mechutil.o \
+src/include/port.o \
+src/include/queue.o \
 src/include/rs232int.o \
 src/include/taskbase.o \
 src/include/taskbase_stackprt.o \
 src/include/taskbase_status.o \
+src/include/tasks.o \
 src/include/textqueue.o \
+src/include/timers.o \
 src/main.o \
 src/main_mega.o
 
 OBJS_AS_ARGS +=  \
+src/ATMega/communication_data.o \
 src/ATMega/fifth_wheel.o \
 src/ATMega/gear_shifter.o \
 src/ATMega/imu_task.o \
+src/ATMega/mega_comm_task.o \
 src/ATMega/motor_driver.o \
-src/ATMega/Servo.o \
+src/ATMega/servo.o \
 src/ATMega/steer_servo.o \
 src/ATMega/wheel_speed.o \
 src/config/mega/boards/stk600/rcx_x/init.o \
 src/include/Adafruit_BNO055.o \
 src/include/base232.o \
 src/include/baseshare.o \
+src/include/croutine.o \
 src/include/emstream.o \
+src/include/event_groups.o \
+src/include/heap_2.o \
 src/include/i2c_master.o \
+src/include/list.o \
 src/include/mechutil.o \
+src/include/port.o \
+src/include/queue.o \
 src/include/rs232int.o \
 src/include/taskbase.o \
 src/include/taskbase_stackprt.o \
 src/include/taskbase_status.o \
+src/include/tasks.o \
 src/include/textqueue.o \
+src/include/timers.o \
 src/main.o \
 src/main_mega.o
 
 C_DEPS +=  \
+src/ATMega/communication_data.d \
 src/ATMega/fifth_wheel.d \
 src/ATMega/gear_shifter.d \
 src/ATMega/imu_task.d \
+src/ATMega/mega_comm_task.d \
 src/ATMega/motor_driver.d \
-src/ATMega/Servo.d \
+src/ATMega/servo.d \
 src/ATMega/steer_servo.d \
 src/ATMega/wheel_speed.d \
 src/config/mega/boards/stk600/rcx_x/init.d \
 src/include/Adafruit_BNO055.d \
 src/include/base232.d \
 src/include/baseshare.d \
+src/include/croutine.d \
 src/include/emstream.d \
+src/include/event_groups.d \
+src/include/heap_2.d \
 src/include/i2c_master.d \
+src/include/list.d \
 src/include/mechutil.d \
+src/include/port.d \
+src/include/queue.d \
 src/include/rs232int.d \
 src/include/taskbase.d \
 src/include/taskbase_stackprt.d \
 src/include/taskbase_status.d \
+src/include/tasks.d \
 src/include/textqueue.d \
+src/include/timers.d \
 src/main.d \
 src/main_mega.d
 
 C_DEPS_AS_ARGS +=  \
+src/ATMega/communication_data.d \
 src/ATMega/fifth_wheel.d \
 src/ATMega/gear_shifter.d \
 src/ATMega/imu_task.d \
+src/ATMega/mega_comm_task.d \
 src/ATMega/motor_driver.d \
-src/ATMega/Servo.d \
+src/ATMega/servo.d \
 src/ATMega/steer_servo.d \
 src/ATMega/wheel_speed.d \
 src/config/mega/boards/stk600/rcx_x/init.d \
 src/include/Adafruit_BNO055.d \
 src/include/base232.d \
 src/include/baseshare.d \
+src/include/croutine.d \
 src/include/emstream.d \
+src/include/event_groups.d \
+src/include/heap_2.d \
 src/include/i2c_master.d \
+src/include/list.d \
 src/include/mechutil.d \
+src/include/port.d \
+src/include/queue.d \
 src/include/rs232int.d \
 src/include/taskbase.d \
 src/include/taskbase_stackprt.d \
 src/include/taskbase_status.d \
+src/include/tasks.d \
 src/include/textqueue.d \
+src/include/timers.d \
 src/main.d \
 src/main_mega.d
 
@@ -197,6 +247,13 @@ LINKER_SCRIPT_DEP+=
 
 
 # AVR32/GNU C Compiler
+src/ATMega/communication_data.o: ../src/ATMega/communication_data.cpp
+	@echo Building file: $<
+	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe$(QUOTE) -funsigned-char -funsigned-bitfields -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
 src/ATMega/fifth_wheel.o: ../src/ATMega/fifth_wheel.cpp
 	@echo Building file: $<
 	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
@@ -218,6 +275,13 @@ src/ATMega/imu_task.o: ../src/ATMega/imu_task.cpp
 	@echo Finished building: $<
 	
 
+src/ATMega/mega_comm_task.o: ../src/ATMega/mega_comm_task.cpp
+	@echo Building file: $<
+	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe$(QUOTE) -funsigned-char -funsigned-bitfields -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
 src/ATMega/motor_driver.o: ../src/ATMega/motor_driver.cpp
 	@echo Building file: $<
 	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
@@ -225,7 +289,7 @@ src/ATMega/motor_driver.o: ../src/ATMega/motor_driver.cpp
 	@echo Finished building: $<
 	
 
-src/ATMega/Servo.o: ../src/ATMega/Servo.cpp
+src/ATMega/servo.o: ../src/ATMega/servo.cpp
 	@echo Building file: $<
 	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
 	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe$(QUOTE) -funsigned-char -funsigned-bitfields -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
@@ -274,10 +338,31 @@ src/include/baseshare.o: ../src/include/baseshare.cpp
 	@echo Finished building: $<
 	
 
+src/include/croutine.o: ../src/include/croutine.c
+	@echo Building file: $<
+	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -fdata-sections -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g3 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -std=gnu99 -fno-strict-aliasing -Wstrict-prototypes -Wmissing-prototypes -Werror-implicit-function-declaration -Wpointer-arith -mrelax -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
 src/include/emstream.o: ../src/include/emstream.cpp
 	@echo Building file: $<
 	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
 	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe$(QUOTE) -funsigned-char -funsigned-bitfields -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
+src/include/event_groups.o: ../src/include/event_groups.c
+	@echo Building file: $<
+	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -fdata-sections -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g3 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -std=gnu99 -fno-strict-aliasing -Wstrict-prototypes -Wmissing-prototypes -Werror-implicit-function-declaration -Wpointer-arith -mrelax -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
+src/include/heap_2.o: ../src/include/heap_2.c
+	@echo Building file: $<
+	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -fdata-sections -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g3 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -std=gnu99 -fno-strict-aliasing -Wstrict-prototypes -Wmissing-prototypes -Werror-implicit-function-declaration -Wpointer-arith -mrelax -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
 	@echo Finished building: $<
 	
 
@@ -288,10 +373,31 @@ src/include/i2c_master.o: ../src/include/i2c_master.cpp
 	@echo Finished building: $<
 	
 
+src/include/list.o: ../src/include/list.c
+	@echo Building file: $<
+	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -fdata-sections -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g3 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -std=gnu99 -fno-strict-aliasing -Wstrict-prototypes -Wmissing-prototypes -Werror-implicit-function-declaration -Wpointer-arith -mrelax -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
 src/include/mechutil.o: ../src/include/mechutil.cpp
 	@echo Building file: $<
 	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
 	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe$(QUOTE) -funsigned-char -funsigned-bitfields -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
+src/include/port.o: ../src/include/port.c
+	@echo Building file: $<
+	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -fdata-sections -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g3 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -std=gnu99 -fno-strict-aliasing -Wstrict-prototypes -Wmissing-prototypes -Werror-implicit-function-declaration -Wpointer-arith -mrelax -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
+src/include/queue.o: ../src/include/queue.c
+	@echo Building file: $<
+	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -fdata-sections -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g3 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -std=gnu99 -fno-strict-aliasing -Wstrict-prototypes -Wmissing-prototypes -Werror-implicit-function-declaration -Wpointer-arith -mrelax -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
 	@echo Finished building: $<
 	
 
@@ -323,10 +429,24 @@ src/include/taskbase_status.o: ../src/include/taskbase_status.cpp
 	@echo Finished building: $<
 	
 
+src/include/tasks.o: ../src/include/tasks.c
+	@echo Building file: $<
+	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -fdata-sections -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g3 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -std=gnu99 -fno-strict-aliasing -Wstrict-prototypes -Wmissing-prototypes -Werror-implicit-function-declaration -Wpointer-arith -mrelax -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
 src/include/textqueue.o: ../src/include/textqueue.cpp
 	@echo Building file: $<
 	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
 	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe$(QUOTE) -funsigned-char -funsigned-bitfields -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
+src/include/timers.o: ../src/include/timers.c
+	@echo Building file: $<
+	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -DDEBUG -DBOARD=STK600_MEGA  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"../src/ASF/common/boards" -I"../src/ASF/mega/utils/preprocessor" -I"../src/ASF/mega/utils" -I"../src/ASF/common/utils" -I"../src" -I"../src/config"  -O1 -fdata-sections -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g3 -Wall -mmcu=atmega64 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega64" -c -std=gnu99 -fno-strict-aliasing -Wstrict-prototypes -Wmissing-prototypes -Werror-implicit-function-declaration -Wpointer-arith -mrelax -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
 	@echo Finished building: $<
 	
 

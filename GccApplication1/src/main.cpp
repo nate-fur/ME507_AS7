@@ -5,9 +5,10 @@
  * Author : Nathan
  */ 
 
+
 #include <avr/io.h>
 #include <asf.h>
-
+/*
 int main(void)
 {
 	board_init();
@@ -21,5 +22,5 @@ int main(void)
     }
 	
 }
-
+*/
 	

@@ -12,7 +12,7 @@
 #include "include/taskbase.h"
 #include "../semi_truck_data_t.h"
 
-class fifth_wheel : public Servo, public TaskBase {
+class fifth_wheel : public servo, public TaskBase {
 public:
 	/**
      * @brief The constructor for a fifth_wheel, which locks and unlocks the trailer hitch

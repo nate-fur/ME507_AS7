@@ -116,6 +116,7 @@ TaskBase::TaskBase (const char* a_name, unsigned portBASE_TYPE a_priority,
 	// successfully
 	if (p_serial != NULL)
 	{
+		/***
 		if (task_status == pdPASS)
 		{
 			*p_serial << PMS ("Task \"") << a_name << PMS ("\" created, stack at 0x")
@@ -125,6 +126,7 @@ TaskBase::TaskBase (const char* a_name, unsigned portBASE_TYPE a_priority,
 		{
 			*p_serial << PMS ("ERROR creating task \"") << a_name << '"' << endl;
 		}
+		***/
 	}
 }
 

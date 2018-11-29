@@ -14,7 +14,7 @@
 #include "../semi_truck_data_t.h"
 
 
-class gear_shifter : public Servo, public TaskBase {
+class gear_shifter : public servo, public TaskBase {
 private:
 	semi_truck_data_t *semi_data;
 

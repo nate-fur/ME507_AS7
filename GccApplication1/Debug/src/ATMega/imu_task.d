@@ -16,7 +16,7 @@ src/ATMega/imu_task.d src/ATMega/imu_task.o: ../src/ATMega/imu_task.cpp \
  C:\Program\ Files\ (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include/avr/iom64.h \
  ../src/avr/portpins.h ../src/avr/common.h ../src/avr/version.h \
  ../src/avr/fuse.h ../src/avr/lock.h ../src/include/time_stamp.h \
- ../src/include/FreeRTOS.h ../src/include/FreeRTOSConfig.h \
+ ../src/include/FreeRTOS.h ../src/include/FreeRTOSConfig.h ../src/ME507.h \
  ../src/include/projdefs.h ../src/include/portable.h \
  ../src/include/portmacro.h ../src/include/mpu_wrappers.h \
  ../src/include/emstream.h ../src/avr/pgmspace.h ../src/include/task.h \
@@ -76,6 +76,8 @@ C:\Program\ Files\ (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include
 ../src/include/FreeRTOS.h:
 
 ../src/include/FreeRTOSConfig.h:
+
+../src/ME507.h:
 
 ../src/include/projdefs.h:
 

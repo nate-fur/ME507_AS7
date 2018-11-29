@@ -13,7 +13,7 @@
 #include "include/taskbase.h"
 #include "../semi_truck_data_t.h"
 
-class steer_servo : public Servo, public TaskBase {
+class steer_servo : public servo, public TaskBase {
 private:
 	semi_truck_data_t *semi_data;
 
