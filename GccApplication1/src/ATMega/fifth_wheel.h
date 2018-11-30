@@ -3,6 +3,12 @@
  * The fifth wheel is responsible for locking and unlocking the connection between the
  * semi-truck tractor and trailer. It is implemented as a child class of both a Servo,
  * and as a TaskBase, allowing it to inherit properties and methods from each parent class.
+ *
+ * The pin on the ATMega to control the fifth wheel servo is Port B pin 5. It is configured
+ * as an output PWM by setting the fifth bit of DDRB to be a 1. Occurs in the constructor
+ * for the class. In addition, this class uses the ATMega64 OC1A (output compare 1, channel
+ * A) for setting the duty cycle for the pulse width modulation. What is written to the
+ * OC1A register ultimately sets the different angles on the servo.
  */
 
 #ifndef ME507_FIFTH_WHEEL_H
@@ -26,7 +32,9 @@ public:
                 unsigned char a_priority = 0,
                 size_t a_stack_size = configMINIMAL_STACK_SIZE,
                 emstream *p_ser_dev = NULL,
-                semi_truck_data_t *semi_data_in = NULL);
+                semi_truck_data_t *semi_data_in = NULL,
+				volatile uint16_t *oc_reg = (uint16_t *) 255,
+				uint8_t ddr_pin = 255);
 
 	/**
 	 * @brief Runs the task code for the fifth wheel.
@@ -48,7 +56,7 @@ private:
     semi_truck_data_t *semi_data;
 
     // overwriting parent state variable; we only have 2 states: true (locked) and false (unlocked)
-    bool state;
+    volatile bool state;
 
     /**
      * @brief locks the servo

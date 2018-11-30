@@ -30,10 +30,10 @@ void mega_comm_task::read_from_pi()
 {
 	portENTER_CRITICAL ();
 	if (check_for_char()) { /// if the other device writes all data atomically, then we can read all data
-		//data_for_tasks->the_data.motor_output = read_16bit_val(); // motor output is going to be a 16 bit value
-		data_for_tasks->set_steer_output(read_16bit_val());
-		data_for_tasks->set_desired_gear(getchar()); // desired gear is only an 8 bit value
-		data_for_tasks->set_desired_5th(getchar());
+		data_for_tasks->the_data.motor_output = read_16bit_val(); // motor output is going to be a 16 bit value
+		data_for_tasks->the_data.steer_output = (read_16bit_val());
+		data_for_tasks->the_data.desired_gear = (getchar()); // desired gear is only an 8 bit value
+		data_for_tasks->the_data.desired_5th = (getchar());
 	}
 	portEXIT_CRITICAL ();
 }
@@ -41,10 +41,10 @@ void mega_comm_task::read_from_pi()
 void mega_comm_task::write_to_pi()
 {
 	portENTER_CRITICAL ();
-	write_16bit_val(data_for_tasks->get_wheel_speed());  /// an ugly way to do this is through bitshifting...
-	write_16bit_val(data_for_tasks->get_imu_angle());
-	putchar(data_for_tasks->get_actual_gear());
-	putchar(data_for_tasks->get_actual_5th());
+	write_16bit_val(data_for_tasks->the_data.wheel_speed);  /// an ugly way to do this is through bitshifting...
+	write_16bit_val(data_for_tasks->the_data.imu_angle);
+	putchar(data_for_tasks->the_data.actual_gear);
+	putchar(data_for_tasks->the_data.actual_5th);
 	portEXIT_CRITICAL ();
 }
 

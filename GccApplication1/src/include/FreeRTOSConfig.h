@@ -74,8 +74,10 @@
 #ifndef FREERTOS_CONFIG_H
 #define FREERTOS_CONFIG_H
 
+#define F_CPU 100000UL
+
 #include <avr/io.h>
-#include "ME507.h"
+
 /*-----------------------------------------------------------
  * Application specific definitions.
  *

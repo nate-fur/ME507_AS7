@@ -32,7 +32,7 @@
 #ifndef _BASE232_H_
 #define _BASE232_H_
 
-#define F_CPU 1
+//#define F_CPU 1000000
 
 // #include "emstream.h"				// Pull in the base class header file
 

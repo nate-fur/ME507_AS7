@@ -79,6 +79,18 @@
       <ToolName>Simulator</ToolName>
     </com_atmel_avrdbg_tool_simulator>
     <avrtoolinterface />
+    <custom>
+      <ToolOptions xmlns="">
+        <InterfaceProperties>
+        </InterfaceProperties>
+        <InterfaceName>
+        </InterfaceName>
+      </ToolOptions>
+      <ToolType xmlns="">custom</ToolType>
+      <ToolNumber xmlns="">
+      </ToolNumber>
+      <ToolName xmlns="">Custom Programming Tool</ToolName>
+    </custom>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <ToolchainSettings>
@@ -193,6 +205,7 @@
           <ListValues>
             <Value>DEBUG</Value>
             <Value>BOARD=STK600_MEGA</Value>
+            <Value>F_CPU=100000UL</Value>
           </ListValues>
         </avrgcccpp.compiler.symbols.DefSymbols>
         <avrgcccpp.compiler.directories.IncludePaths>
@@ -526,9 +539,6 @@
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="src\main_mega.cpp">
-      <SubType>compile</SubType>
-    </Compile>
-    <Compile Include="src\ME507.h">
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="src\semi_truck_data_t.h">

@@ -103,7 +103,7 @@
 
 template <class DataType> class TaskShare : public BaseShare
 {
-	protected:
+	public:
 		DataType the_data;					///< Holds the data to be shared
 
 	public:

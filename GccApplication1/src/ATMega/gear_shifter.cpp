@@ -13,10 +13,11 @@
 #define THIRD_GEAR_LEVEL 3
 	
 gear_shifter::gear_shifter(const char *a_name, unsigned char a_priority, size_t a_stack_size, emstream *p_ser_dev,
-                           semi_truck_data_t *semi_data_in)
-		: servo::servo(), 
-		TaskBase::TaskBase(a_name, a_priority, a_stack_size, p_ser_dev)
+                           semi_truck_data_t *semi_data_in, volatile uint16_t *oc_reg, uint8_t ddr_pin_in)
+            : servo::servo(oc_reg, ddr_pin_in),
+            TaskBase::TaskBase(a_name, a_priority, a_stack_size, p_ser_dev)
 {
+    DDRB |= 0b01000000; // sets DDR to configure pin 6 of port B to be output for PWM
 	semi_data = semi_data_in;
 	shift_to_first();
 	semi_data->desired_gear = FIRST_GEAR;
@@ -28,7 +29,7 @@ void gear_shifter::run()
 	shift_to_first();
 
 	for (;;) {
-
+		write(0);
 		if (state != semi_data->desired_gear) { // if the the same, don't need to actuate servo; should make loop faster
 
 			if (state == FIRST_GEAR) {
@@ -63,6 +64,7 @@ void gear_shifter::run()
 				break;
 			}
 		}
+		delay_ms(5);
 	}
 }
 

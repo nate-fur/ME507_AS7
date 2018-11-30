@@ -3,13 +3,17 @@
  * The steering servo is responsible for steering the semi-truck. It is implemented as a
  * child class of both a Servo, and as a TaskBase, allowing it to inherit properties
  * and methods from each parent class.
+ *
+ * The pin on the ATMega to control the fifth wheel servo is Port B pin 7. It is configured
+ * as an output PWM by setting the seventh bit of DDRB to be a 1. Occurs in the constructor
+ * for the class.
  */
 
 
 #ifndef ME507_STEER_SERVO_H
 #define ME507_STEER_SERVO_H
 
-#include "Servo.h"
+#include "servo.h"
 #include "include/taskbase.h"
 #include "../semi_truck_data_t.h"
 
@@ -27,10 +31,12 @@ public:
      * @param semi_data_in A pointer to the semi truck system data that is communicated between tasks
      */
 	steer_servo(const char *a_name,
-				unsigned char a_priority = 0,
-				size_t a_stack_size = configMINIMAL_STACK_SIZE,
-				emstream *p_ser_dev = NULL,
-				semi_truck_data_t *semi_data_in = NULL);
+    			 unsigned char a_priority = 0,
+    			 size_t a_stack_size = configMINIMAL_STACK_SIZE,
+                 emstream *p_ser_dev = NULL,
+                 semi_truck_data_t *semi_data_in = NULL,
+                 volatile uint16_t *oc_reg = (uint16_t *) 255,
+                 uint8_t ddr_pin = 255);
 
 	/**
 	 * @brief Runs the task code for the steering servo.
