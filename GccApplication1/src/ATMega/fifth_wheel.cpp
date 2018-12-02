@@ -17,8 +17,6 @@ fifth_wheel::fifth_wheel(const char *a_name, unsigned char a_priority, size_t a_
 		: servo::servo(oc_reg, ddr_pin_in),
 		TaskBase::TaskBase(a_name, a_priority, a_stack_size, p_ser_dev)
 {
-	volatile uint8_t *reg1 = &DDRB;
-    *reg1 |= 0b00100000; // sets DDR to configure pin 5 of port B to be output for PWM
 	semi_data = semi_data_in;
     state = LOCKED; // fifth wheel starts out locked
 }
@@ -29,7 +27,7 @@ void fifth_wheel::run()
     state = LOCKED; // fifth wheel starts out locked
 	volatile int counter = 0;
     for (;;) {
-		write(0);
+		//write(0);
         if (state == LOCKED) {
             if (semi_data->desired_5th == UNLOCKED) {
                 unlock_servo();
@@ -48,7 +46,7 @@ void fifth_wheel::run()
             print_status(*p_serial);
             break;
         }
-		delay_ms(5);
+		//delay_ms(5);
     }
 }
 

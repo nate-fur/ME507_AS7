@@ -60,7 +60,5 @@ src\include\textqueue.cpp
 
 src\include\timers.c
 
-src\main.cpp
-
 src\main_mega.cpp
 

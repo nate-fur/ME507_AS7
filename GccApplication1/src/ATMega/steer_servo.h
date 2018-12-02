@@ -20,6 +20,7 @@
 class steer_servo : public servo, public TaskBase {
 private:
 	semi_truck_data_t *semi_data;
+	
 
 public:
     /**

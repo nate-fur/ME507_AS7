@@ -21,7 +21,7 @@ public:
 
 private:
 	volatile uint16_t *out_comp_reg;
-	volatile uint8_t *ddr_reg = DDRB;
+	volatile uint8_t *ddr_reg = DDRB; // based on the pinout for the atmega64, all of our servos work thru port b
 	uint8_t ddr_pin; 
 };
 

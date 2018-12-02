@@ -17,6 +17,12 @@ class motor_driver : public TaskBase {
 private:
 	semi_truck_data_t *semi_data;
 	
+	/* These serve the same functionality as class variables in the servo class, but since the 
+	motor is not technically a servo, the motor driver does not descend the servo class */
+	volatile uint16_t *out_comp_reg;
+	volatile uint8_t *ddr_reg = &DDRE; // the motor output pwm will be on pin 6 (PE4; output B for TC3) 
+	uint8_t ddr_pin;
+	
 public:
     /**
      * @brief The constructor for the motor driver to supply power to the motor.
@@ -30,7 +36,9 @@ public:
 				 unsigned char a_priority = 0,
 				 size_t a_stack_size = configMINIMAL_STACK_SIZE,
 				 emstream *p_ser_dev = NULL,
-				 semi_truck_data_t *semi_data_in = NULL);
+				 semi_truck_data_t *semi_data_in = NULL,
+				 volatile uint16_t *oc_reg = (uint16_t *) 255,
+				 uint8_t ddr_pin = 255);
 
 	/**
 	 * @brief Runs the task code for the motor driver.
@@ -38,6 +46,8 @@ public:
 	 * loop running on the Raspberry pi, and actuating the motor to this level.
 	 */
     void run();
+	
+	void write(uint16_t out_val);
 };
 
 

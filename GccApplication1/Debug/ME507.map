@@ -1,0 +1,2284 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              src/include/Adafruit_BNO055.o (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              src/include/taskbase.o (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_szero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              src/include/Adafruit_BNO055.o (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              src/ATMega/gear_shifter.o (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              src/include/emstream.o (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              src/ATMega/fifth_wheel.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              src/include/baseshare.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                              src/ATMega/gear_shifter.o (__muluhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              src/include/queue.o (memcpy)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                              src/include/Adafruit_BNO055.o (memset)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+                              src/include/baseshare.o (strlen)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                              src/include/Adafruit_BNO055.o (strncpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+portStackTopForTask
+                    0x2               src/include/port.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+ .text          0x00000000        0x0 src/ATMega/communication_data.o
+ .data          0x00000000        0x0 src/ATMega/communication_data.o
+ .bss           0x00000000        0x0 src/ATMega/communication_data.o
+ .debug_info    0x00000000       0x5d src/ATMega/communication_data.o
+ .debug_abbrev  0x00000000       0x26 src/ATMega/communication_data.o
+ .debug_aranges
+                0x00000000       0x18 src/ATMega/communication_data.o
+ .debug_line    0x00000000       0x1a src/ATMega/communication_data.o
+ .debug_str     0x00000000      0x1be src/ATMega/communication_data.o
+ .comment       0x00000000       0x31 src/ATMega/communication_data.o
+ .group         0x00000000        0x8 src/ATMega/fifth_wheel.o
+ .text          0x00000000        0x0 src/ATMega/fifth_wheel.o
+ .data          0x00000000        0x0 src/ATMega/fifth_wheel.o
+ .bss           0x00000000        0x0 src/ATMega/fifth_wheel.o
+ .rodata._ZL15HW_TICK_RATE_HZ
+                0x00000000        0x4 src/ATMega/fifth_wheel.o
+ .rodata._ZL10TMR_MAX_CT
+                0x00000000        0x4 src/ATMega/fifth_wheel.o
+ .group         0x00000000        0x8 src/ATMega/gear_shifter.o
+ .group         0x00000000        0x8 src/ATMega/gear_shifter.o
+ .text          0x00000000        0x0 src/ATMega/gear_shifter.o
+ .data          0x00000000        0x0 src/ATMega/gear_shifter.o
+ .bss           0x00000000        0x0 src/ATMega/gear_shifter.o
+ .rodata._ZL15HW_TICK_RATE_HZ
+                0x00000000        0x4 src/ATMega/gear_shifter.o
+ .rodata._ZL10TMR_MAX_CT
+                0x00000000        0x4 src/ATMega/gear_shifter.o
+ .text._ZN8TaskBase8delay_msEm
+                0x00000000       0x76 src/ATMega/gear_shifter.o
+ .text._ZN12gear_shifterC2EPKchjP8emstreamP17semi_truck_data_tPVjh
+                0x00000000       0xda src/ATMega/gear_shifter.o
+ .text._ZN12gear_shifter3runEv
+                0x00000000      0x1d6 src/ATMega/gear_shifter.o
+ .text._ZN12gear_shifter14shift_to_firstEv
+                0x00000000       0x38 src/ATMega/gear_shifter.o
+ .text._ZN12gear_shifter15shift_to_secondEv
+                0x00000000       0x38 src/ATMega/gear_shifter.o
+ .text._ZN12gear_shifter14shift_to_thirdEv
+                0x00000000       0x38 src/ATMega/gear_shifter.o
+ .text._ZN12gear_shifter16get_actual_levelEv
+                0x00000000       0x20 src/ATMega/gear_shifter.o
+ .text._ZN12gear_shifter17set_desired_levelEh
+                0x00000000       0x30 src/ATMega/gear_shifter.o
+ .rodata._ZTV12gear_shifter
+                0x00000000        0x8 src/ATMega/gear_shifter.o
+ .debug_info    0x00000000      0x5e8 src/ATMega/gear_shifter.o
+ .debug_abbrev  0x00000000      0x224 src/ATMega/gear_shifter.o
+ .debug_loc     0x00000000      0x299 src/ATMega/gear_shifter.o
+ .debug_aranges
+                0x00000000       0x58 src/ATMega/gear_shifter.o
+ .debug_ranges  0x00000000       0x48 src/ATMega/gear_shifter.o
+ .debug_line    0x00000000      0x35b src/ATMega/gear_shifter.o
+ .debug_str     0x00000000      0x56f src/ATMega/gear_shifter.o
+ .comment       0x00000000       0x31 src/ATMega/gear_shifter.o
+ .debug_frame   0x00000000      0x138 src/ATMega/gear_shifter.o
+ .group         0x00000000        0xc src/ATMega/imu_task.o
+ .group         0x00000000        0x8 src/ATMega/imu_task.o
+ .group         0x00000000        0xc src/ATMega/imu_task.o
+ .group         0x00000000        0x8 src/ATMega/imu_task.o
+ .group         0x00000000        0xc src/ATMega/imu_task.o
+ .group         0x00000000        0x8 src/ATMega/imu_task.o
+ .text          0x00000000        0x0 src/ATMega/imu_task.o
+ .data          0x00000000        0x0 src/ATMega/imu_task.o
+ .bss           0x00000000        0x0 src/ATMega/imu_task.o
+ .text._ZN15Adafruit_SensorD2Ev
+                0x00000000       0x36 src/ATMega/imu_task.o
+ .text._ZN15Adafruit_SensorD0Ev
+                0x00000000       0x28 src/ATMega/imu_task.o
+ .text._ZN15Adafruit_Sensor15enableAutoRangeEb
+                0x00000000       0x20 src/ATMega/imu_task.o
+ .rodata._ZL15HW_TICK_RATE_HZ
+                0x00000000        0x4 src/ATMega/imu_task.o
+ .rodata._ZL10TMR_MAX_CT
+                0x00000000        0x4 src/ATMega/imu_task.o
+ .text._ZN15Adafruit_BNO055D2Ev
+                0x00000000       0x3e src/ATMega/imu_task.o
+ .text._ZN15Adafruit_BNO055D0Ev
+                0x00000000       0x28 src/ATMega/imu_task.o
+ .text._ZN8imu_taskC2EPKchjP8emstreammhP17semi_truck_data_t
+                0x00000000       0xd2 src/ATMega/imu_task.o
+ .text._ZN8imu_task3runEv
+                0x00000000       0x9e src/ATMega/imu_task.o
+ .rodata._ZTV8imu_task
+                0x00000000       0x1a src/ATMega/imu_task.o
+ .text._ZN8imu_taskD2Ev
+                0x00000000       0x78 src/ATMega/imu_task.o
+ .text._ZN8imu_taskD0Ev
+                0x00000000       0x52 src/ATMega/imu_task.o
+ .rodata._ZTV15Adafruit_Sensor
+                0x00000000        0xe src/ATMega/imu_task.o
+ .debug_info    0x00000000      0xcbe src/ATMega/imu_task.o
+ .debug_abbrev  0x00000000      0x30a src/ATMega/imu_task.o
+ .debug_loc     0x00000000      0x2fc src/ATMega/imu_task.o
+ .debug_aranges
+                0x00000000       0x60 src/ATMega/imu_task.o
+ .debug_ranges  0x00000000       0x50 src/ATMega/imu_task.o
+ .debug_line    0x00000000      0x2f4 src/ATMega/imu_task.o
+ .debug_str     0x00000000     0x13ca src/ATMega/imu_task.o
+ .comment       0x00000000       0x31 src/ATMega/imu_task.o
+ .debug_frame   0x00000000      0x1a4 src/ATMega/imu_task.o
+ .group         0x00000000        0x8 src/ATMega/mega_comm_task.o
+ .text          0x00000000        0x0 src/ATMega/mega_comm_task.o
+ .data          0x00000000        0x0 src/ATMega/mega_comm_task.o
+ .bss           0x00000000        0x0 src/ATMega/mega_comm_task.o
+ .rodata._ZL15HW_TICK_RATE_HZ
+                0x00000000        0x4 src/ATMega/mega_comm_task.o
+ .rodata._ZL10TMR_MAX_CT
+                0x00000000        0x4 src/ATMega/mega_comm_task.o
+ .text._ZN14mega_comm_taskC2EPKchjP8emstreamjhP9TaskShareI17semi_truck_data_tE
+                0x00000000       0xb4 src/ATMega/mega_comm_task.o
+ .text._ZN14mega_comm_task3runEv
+                0x00000000       0x2a src/ATMega/mega_comm_task.o
+ .text._ZN14mega_comm_task12read_from_piEv
+                0x00000000       0xdc src/ATMega/mega_comm_task.o
+ .text._ZN14mega_comm_task11write_to_piEv
+                0x00000000       0xb4 src/ATMega/mega_comm_task.o
+ .text._ZN14mega_comm_task15write_16bit_valEi
+                0x00000000       0x88 src/ATMega/mega_comm_task.o
+ .text._ZN14mega_comm_task14read_16bit_valEv
+                0x00000000       0xa0 src/ATMega/mega_comm_task.o
+ .rodata._ZTV14mega_comm_task
+                0x00000000       0x18 src/ATMega/mega_comm_task.o
+ .debug_info    0x00000000      0x529 src/ATMega/mega_comm_task.o
+ .debug_abbrev  0x00000000      0x1da src/ATMega/mega_comm_task.o
+ .debug_loc     0x00000000      0x222 src/ATMega/mega_comm_task.o
+ .debug_aranges
+                0x00000000       0x48 src/ATMega/mega_comm_task.o
+ .debug_ranges  0x00000000       0x38 src/ATMega/mega_comm_task.o
+ .debug_line    0x00000000      0x2e4 src/ATMega/mega_comm_task.o
+ .debug_str     0x00000000      0x515 src/ATMega/mega_comm_task.o
+ .comment       0x00000000       0x31 src/ATMega/mega_comm_task.o
+ .debug_frame   0x00000000      0x104 src/ATMega/mega_comm_task.o
+ .group         0x00000000        0x8 src/ATMega/motor_driver.o
+ .group         0x00000000        0x8 src/ATMega/motor_driver.o
+ .text          0x00000000        0x0 src/ATMega/motor_driver.o
+ .data          0x00000000        0x0 src/ATMega/motor_driver.o
+ .bss           0x00000000        0x0 src/ATMega/motor_driver.o
+ .rodata._ZL15HW_TICK_RATE_HZ
+                0x00000000        0x4 src/ATMega/motor_driver.o
+ .rodata._ZL10TMR_MAX_CT
+                0x00000000        0x4 src/ATMega/motor_driver.o
+ .text._ZN8TaskBase8delay_msEm
+                0x00000000       0x76 src/ATMega/motor_driver.o
+ .text._ZN12motor_driverC2EPKchjP8emstreamP17semi_truck_data_tPVjh
+                0x00000000       0xce src/ATMega/motor_driver.o
+ .text._ZN12motor_driver3runEv
+                0x00000000       0x3c src/ATMega/motor_driver.o
+ .text._ZN12motor_driver5writeEj
+                0x00000000       0x3e src/ATMega/motor_driver.o
+ .rodata._ZTV12motor_driver
+                0x00000000        0x8 src/ATMega/motor_driver.o
+ .debug_info    0x00000000      0x475 src/ATMega/motor_driver.o
+ .debug_abbrev  0x00000000      0x1fd src/ATMega/motor_driver.o
+ .debug_loc     0x00000000      0x179 src/ATMega/motor_driver.o
+ .debug_aranges
+                0x00000000       0x38 src/ATMega/motor_driver.o
+ .debug_ranges  0x00000000       0x28 src/ATMega/motor_driver.o
+ .debug_line    0x00000000      0x223 src/ATMega/motor_driver.o
+ .debug_str     0x00000000      0x447 src/ATMega/motor_driver.o
+ .comment       0x00000000       0x31 src/ATMega/motor_driver.o
+ .debug_frame   0x00000000       0xb8 src/ATMega/motor_driver.o
+ .text          0x00000000        0x0 src/ATMega/servo.o
+ .data          0x00000000        0x0 src/ATMega/servo.o
+ .bss           0x00000000        0x0 src/ATMega/servo.o
+ .group         0x00000000        0x8 src/ATMega/steer_servo.o
+ .group         0x00000000        0x8 src/ATMega/steer_servo.o
+ .text          0x00000000        0x0 src/ATMega/steer_servo.o
+ .data          0x00000000        0x0 src/ATMega/steer_servo.o
+ .bss           0x00000000        0x0 src/ATMega/steer_servo.o
+ .rodata._ZL15HW_TICK_RATE_HZ
+                0x00000000        0x4 src/ATMega/steer_servo.o
+ .rodata._ZL10TMR_MAX_CT
+                0x00000000        0x4 src/ATMega/steer_servo.o
+ .text._ZN8TaskBase8delay_msEm
+                0x00000000       0x76 src/ATMega/steer_servo.o
+ .text._ZN11steer_servoC2EPKchjP8emstreamP17semi_truck_data_tPVjh
+                0x00000000       0xc6 src/ATMega/steer_servo.o
+ .text._ZN11steer_servo3runEv
+                0x00000000       0x3c src/ATMega/steer_servo.o
+ .text._ZN11steer_servo18set_steering_levelEi
+                0x00000000       0x38 src/ATMega/steer_servo.o
+ .text._ZN11steer_servo18get_steering_levelEv
+                0x00000000       0x28 src/ATMega/steer_servo.o
+ .rodata._ZTV11steer_servo
+                0x00000000        0x8 src/ATMega/steer_servo.o
+ .debug_info    0x00000000      0x51c src/ATMega/steer_servo.o
+ .debug_abbrev  0x00000000      0x222 src/ATMega/steer_servo.o
+ .debug_loc     0x00000000      0x1c1 src/ATMega/steer_servo.o
+ .debug_aranges
+                0x00000000       0x40 src/ATMega/steer_servo.o
+ .debug_ranges  0x00000000       0x30 src/ATMega/steer_servo.o
+ .debug_line    0x00000000      0x24c src/ATMega/steer_servo.o
+ .debug_str     0x00000000      0x4cf src/ATMega/steer_servo.o
+ .comment       0x00000000       0x31 src/ATMega/steer_servo.o
+ .debug_frame   0x00000000       0xd8 src/ATMega/steer_servo.o
+ .group         0x00000000        0x8 src/ATMega/wheel_speed.o
+ .text          0x00000000        0x0 src/ATMega/wheel_speed.o
+ .data          0x00000000        0x0 src/ATMega/wheel_speed.o
+ .bss           0x00000000        0x0 src/ATMega/wheel_speed.o
+ .rodata._ZL15HW_TICK_RATE_HZ
+                0x00000000        0x4 src/ATMega/wheel_speed.o
+ .rodata._ZL10TMR_MAX_CT
+                0x00000000        0x4 src/ATMega/wheel_speed.o
+ .text._ZN11wheel_speedC2EPKchjP8emstreamP17semi_truck_data_t
+                0x00000000       0x82 src/ATMega/wheel_speed.o
+ .text._ZN11wheel_speed3runEv
+                0x00000000       0x1a src/ATMega/wheel_speed.o
+ .rodata._ZTV11wheel_speed
+                0x00000000        0x8 src/ATMega/wheel_speed.o
+ .debug_info    0x00000000      0x327 src/ATMega/wheel_speed.o
+ .debug_abbrev  0x00000000      0x187 src/ATMega/wheel_speed.o
+ .debug_loc     0x00000000       0xc3 src/ATMega/wheel_speed.o
+ .debug_aranges
+                0x00000000       0x28 src/ATMega/wheel_speed.o
+ .debug_ranges  0x00000000       0x18 src/ATMega/wheel_speed.o
+ .debug_line    0x00000000      0x1b8 src/ATMega/wheel_speed.o
+ .debug_str     0x00000000      0x39f src/ATMega/wheel_speed.o
+ .comment       0x00000000       0x31 src/ATMega/wheel_speed.o
+ .debug_frame   0x00000000       0x68 src/ATMega/wheel_speed.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/config/mega/boards/stk600/rcx_x/init.o
+ .text          0x00000000        0x0 src/config/mega/boards/stk600/rcx_x/init.o
+ .data          0x00000000        0x0 src/config/mega/boards/stk600/rcx_x/init.o
+ .bss           0x00000000        0x0 src/config/mega/boards/stk600/rcx_x/init.o
+ .text.board_init
+                0x00000000       0x10 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_info    0x00000000       0x7c src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_abbrev  0x00000000       0x47 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_loc     0x00000000       0x3b src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_aranges
+                0x00000000       0x20 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_ranges  0x00000000       0x10 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x134 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0xa4e src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x10 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x1c9 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x2fc src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x9e src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000     0x1543 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x203 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0xbd src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x34 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x18 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x6c src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x22 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x16d src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x1c src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x35 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x66 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x6d7 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x43 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x69 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x2b src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x10 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0xe2 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000       0x40 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x100 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_macro   0x00000000      0x2bd src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_line    0x00000000      0x318 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_str     0x00000000    0x101e1 src/config/mega/boards/stk600/rcx_x/init.o
+ .comment       0x00000000       0x31 src/config/mega/boards/stk600/rcx_x/init.o
+ .debug_frame   0x00000000       0x34 src/config/mega/boards/stk600/rcx_x/init.o
+ .group         0x00000000        0x8 src/include/Adafruit_BNO055.o
+ .group         0x00000000        0xc src/include/Adafruit_BNO055.o
+ .group         0x00000000        0x8 src/include/Adafruit_BNO055.o
+ .group         0x00000000        0x8 src/include/Adafruit_BNO055.o
+ .group         0x00000000        0x8 src/include/Adafruit_BNO055.o
+ .group         0x00000000        0x8 src/include/Adafruit_BNO055.o
+ .group         0x00000000        0x8 src/include/Adafruit_BNO055.o
+ .group         0x00000000        0x8 src/include/Adafruit_BNO055.o
+ .group         0x00000000        0x8 src/include/Adafruit_BNO055.o
+ .group         0x00000000        0x8 src/include/Adafruit_BNO055.o
+ .group         0x00000000        0x8 src/include/Adafruit_BNO055.o
+ .group         0x00000000        0xc src/include/Adafruit_BNO055.o
+ .group         0x00000000        0x8 src/include/Adafruit_BNO055.o
+ .text          0x00000000        0x0 src/include/Adafruit_BNO055.o
+ .data          0x00000000        0x0 src/include/Adafruit_BNO055.o
+ .bss           0x00000000        0x0 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_SensorC2Ev
+                0x00000000       0x28 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_SensorD2Ev
+                0x00000000       0x36 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_SensorD0Ev
+                0x00000000       0x28 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_Sensor15enableAutoRangeEb
+                0x00000000       0x20 src/include/Adafruit_BNO055.o
+ .text._ZN3imu10QuaternionC2Edddd
+                0x00000000       0xcc src/include/Adafruit_BNO055.o
+ .rodata._ZL14I2C_TWBR_VALUE
+                0x00000000        0x1 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO055C2Elh
+                0x00000000       0x6c src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO0555beginENS_24adafruit_bno055_opmode_tE
+                0x00000000       0xa8 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO0557setModeENS_24adafruit_bno055_opmode_tE
+                0x00000000       0x3e src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO05512setAxisRemapENS_35adafruit_bno055_axis_remap_config_tE
+                0x00000000       0x4c src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO05511setAxisSignENS_33adafruit_bno055_axis_remap_sign_tE
+                0x00000000       0x4c src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO05516setExtCrystalUseEb
+                0x00000000       0x6c src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO05515getSystemStatusEPhS0_S0_
+                0x00000000       0x98 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO05510getRevInfoEPNS_26adafruit_bno055_rev_info_tE
+                0x00000000       0xc0 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO05514getCalibrationEPhS0_S0_S0_
+                0x00000000       0xce src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO0557getTempEv
+                0x00000000       0x2a src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO0559getVectorENS_22adafruit_vector_type_tE
+                0x00000000      0x3f2 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO0557getQuatEv
+                0x00000000      0x1e6 src/include/Adafruit_BNO055.o
+ .rodata        0x00000000        0x7 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO0559getSensorEP8sensor_t
+                0x00000000       0xd0 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO0558getEventEP15sensors_event_t
+                0x00000000      0x106 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO05516getSensorOffsetsEPh
+                0x00000000       0x66 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO05516getSensorOffsetsER25adafruit_bno055_offsets_t
+                0x00000000      0x270 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO05516setSensorOffsetsEPKh
+                0x00000000      0x228 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO05516setSensorOffsetsERK25adafruit_bno055_offsets_t
+                0x00000000      0x282 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO05517isFullyCalibratedEv
+                0x00000000       0x6c src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO0556write8ENS_21adafruit_bno055_reg_tEc
+                0x00000000       0x24 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO0555read8ENS_21adafruit_bno055_reg_tE
+                0x00000000       0x20 src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO0557readLenENS_21adafruit_bno055_reg_tEPch
+                0x00000000       0x2e src/include/Adafruit_BNO055.o
+ .text._ZN3imu6VectorILh3EED2Ev
+                0x00000000       0x1a src/include/Adafruit_BNO055.o
+ .text._ZN3imu6VectorILh3EE1xEv
+                0x00000000       0x1c src/include/Adafruit_BNO055.o
+ .text._ZN3imu6VectorILh3EE1yEv
+                0x00000000       0x1e src/include/Adafruit_BNO055.o
+ .text._ZN3imu6VectorILh3EE1zEv
+                0x00000000       0x1e src/include/Adafruit_BNO055.o
+ .text._ZN3imu6VectorILh3EEC2Ev
+                0x00000000       0x2c src/include/Adafruit_BNO055.o
+ .text._ZN3imu6VectorILh3EEixEi
+                0x00000000       0x36 src/include/Adafruit_BNO055.o
+ .rodata._ZTV15Adafruit_BNO055
+                0x00000000        0xe src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO055D2Ev
+                0x00000000       0x3e src/include/Adafruit_BNO055.o
+ .text._ZN15Adafruit_BNO055D0Ev
+                0x00000000       0x28 src/include/Adafruit_BNO055.o
+ .rodata._ZTV15Adafruit_Sensor
+                0x00000000        0xe src/include/Adafruit_BNO055.o
+ .debug_info    0x00000000     0x2980 src/include/Adafruit_BNO055.o
+ .debug_abbrev  0x00000000      0x43d src/include/Adafruit_BNO055.o
+ .debug_loc     0x00000000      0xb7e src/include/Adafruit_BNO055.o
+ .debug_aranges
+                0x00000000      0x130 src/include/Adafruit_BNO055.o
+ .debug_ranges  0x00000000      0x120 src/include/Adafruit_BNO055.o
+ .debug_line    0x00000000      0x951 src/include/Adafruit_BNO055.o
+ .debug_str     0x00000000     0x2e16 src/include/Adafruit_BNO055.o
+ .comment       0x00000000       0x31 src/include/Adafruit_BNO055.o
+ .debug_frame   0x00000000      0x528 src/include/Adafruit_BNO055.o
+ .text          0x00000000        0x0 src/include/base232.o
+ .data          0x00000000        0x0 src/include/base232.o
+ .bss           0x00000000        0x0 src/include/base232.o
+ .text._ZN7base232C2Ejh
+                0x00000000      0x1dc src/include/base232.o
+ .text._ZN7base23213ready_to_sendEv
+                0x00000000       0x44 src/include/base232.o
+ .text._ZN7base23210is_sendingEv
+                0x00000000       0x44 src/include/base232.o
+ .debug_info    0x00000000      0x200 src/include/base232.o
+ .debug_abbrev  0x00000000      0x13b src/include/base232.o
+ .debug_loc     0x00000000       0xf2 src/include/base232.o
+ .debug_aranges
+                0x00000000       0x30 src/include/base232.o
+ .debug_ranges  0x00000000       0x20 src/include/base232.o
+ .debug_line    0x00000000      0x143 src/include/base232.o
+ .debug_str     0x00000000      0x277 src/include/base232.o
+ .comment       0x00000000       0x31 src/include/base232.o
+ .debug_frame   0x00000000       0x80 src/include/base232.o
+ .group         0x00000000        0x8 src/include/baseshare.o
+ .group         0x00000000        0x8 src/include/baseshare.o
+ .text          0x00000000        0x0 src/include/baseshare.o
+ .data          0x00000000        0x0 src/include/baseshare.o
+ .bss           0x00000000        0x0 src/include/baseshare.o
+ .text._ZN8emstreamlsEPKc
+                0x00000000       0x34 src/include/baseshare.o
+ .bss._ZN9BaseShare8p_newestE
+                0x00000000        0x2 src/include/baseshare.o
+ .text._ZN9BaseShareC2EPKc
+                0x00000000       0xa2 src/include/baseshare.o
+ .progmem.something
+                0x00000000       0x64 src/include/baseshare.o
+ .text._Z16print_all_sharesP8emstream
+                0x00000000       0xa4 src/include/baseshare.o
+ .rodata._ZTV9BaseShare
+                0x00000000        0x6 src/include/baseshare.o
+ .debug_info    0x00000000      0x38a src/include/baseshare.o
+ .debug_abbrev  0x00000000      0x241 src/include/baseshare.o
+ .debug_loc     0x00000000       0xf2 src/include/baseshare.o
+ .debug_aranges
+                0x00000000       0x30 src/include/baseshare.o
+ .debug_ranges  0x00000000       0x20 src/include/baseshare.o
+ .debug_line    0x00000000      0x161 src/include/baseshare.o
+ .debug_str     0x00000000      0x38a src/include/baseshare.o
+ .comment       0x00000000       0x31 src/include/baseshare.o
+ .debug_frame   0x00000000       0x80 src/include/baseshare.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .group         0x00000000        0x8 src/include/croutine.o
+ .text          0x00000000        0x0 src/include/croutine.o
+ .data          0x00000000        0x0 src/include/croutine.o
+ .bss           0x00000000        0x0 src/include/croutine.o
+ .bss.pxReadyCoRoutineLists
+                0x00000000       0x16 src/include/croutine.o
+ .bss.xDelayedCoRoutineList1
+                0x00000000        0xb src/include/croutine.o
+ .bss.xDelayedCoRoutineList2
+                0x00000000        0xb src/include/croutine.o
+ .bss.pxDelayedCoRoutineList
+                0x00000000        0x2 src/include/croutine.o
+ .bss.pxOverflowDelayedCoRoutineList
+                0x00000000        0x2 src/include/croutine.o
+ .bss.xPendingReadyCoRoutineList
+                0x00000000        0xb src/include/croutine.o
+ .bss.pxCurrentCoRoutine
+                0x00000000        0x2 src/include/croutine.o
+ .bss.uxTopCoRoutineReadyPriority
+                0x00000000        0x1 src/include/croutine.o
+ .bss.xCoRoutineTickCount
+                0x00000000        0x4 src/include/croutine.o
+ .bss.xLastTickCount
+                0x00000000        0x4 src/include/croutine.o
+ .bss.xPassedTicks
+                0x00000000        0x4 src/include/croutine.o
+ .text.xCoRoutineCreate
+                0x00000000      0x15a src/include/croutine.o
+ .text.vCoRoutineAddToDelayedList
+                0x00000000      0x100 src/include/croutine.o
+ .text.prvCheckPendingReadyList
+                0x00000000       0x92 src/include/croutine.o
+ .text.prvCheckDelayedList
+                0x00000000      0x1f2 src/include/croutine.o
+ .text.vCoRoutineSchedule
+                0x00000000       0xfe src/include/croutine.o
+ .text.prvInitialiseCoRoutineLists
+                0x00000000       0x6e src/include/croutine.o
+ .text.xCoRoutineRemoveFromEventList
+                0x00000000       0x72 src/include/croutine.o
+ .debug_info    0x00000000      0x4e6 src/include/croutine.o
+ .debug_abbrev  0x00000000      0x185 src/include/croutine.o
+ .debug_loc     0x00000000      0x25e src/include/croutine.o
+ .debug_aranges
+                0x00000000       0x50 src/include/croutine.o
+ .debug_ranges  0x00000000       0x40 src/include/croutine.o
+ .debug_macro   0x00000000      0x100 src/include/croutine.o
+ .debug_macro   0x00000000      0xa4e src/include/croutine.o
+ .debug_macro   0x00000000      0x16d src/include/croutine.o
+ .debug_macro   0x00000000      0x1c9 src/include/croutine.o
+ .debug_macro   0x00000000       0x10 src/include/croutine.o
+ .debug_macro   0x00000000       0x10 src/include/croutine.o
+ .debug_macro   0x00000000      0x302 src/include/croutine.o
+ .debug_macro   0x00000000       0x9e src/include/croutine.o
+ .debug_macro   0x00000000     0x1543 src/include/croutine.o
+ .debug_macro   0x00000000      0x203 src/include/croutine.o
+ .debug_macro   0x00000000       0xbd src/include/croutine.o
+ .debug_macro   0x00000000       0x34 src/include/croutine.o
+ .debug_macro   0x00000000       0x18 src/include/croutine.o
+ .debug_macro   0x00000000       0x6c src/include/croutine.o
+ .debug_macro   0x00000000       0xdf src/include/croutine.o
+ .debug_macro   0x00000000       0x46 src/include/croutine.o
+ .debug_macro   0x00000000       0x8c src/include/croutine.o
+ .debug_macro   0x00000000       0x12 src/include/croutine.o
+ .debug_macro   0x00000000       0x1f src/include/croutine.o
+ .debug_macro   0x00000000      0x306 src/include/croutine.o
+ .debug_macro   0x00000000       0x79 src/include/croutine.o
+ .debug_macro   0x00000000       0x69 src/include/croutine.o
+ .debug_macro   0x00000000       0x49 src/include/croutine.o
+ .debug_line    0x00000000      0x563 src/include/croutine.o
+ .debug_str     0x00000000     0x9d6b src/include/croutine.o
+ .comment       0x00000000       0x31 src/include/croutine.o
+ .debug_frame   0x00000000      0x11c src/include/croutine.o
+ .group         0x00000000        0x8 src/include/emstream.o
+ .text          0x00000000        0x0 src/include/emstream.o
+ .data          0x00000000        0x0 src/include/emstream.o
+ .bss           0x00000000        0x0 src/include/emstream.o
+ .data.bts_new_prec
+                0x00000000        0x1 src/include/emstream.o
+ .data.bts_new_base
+                0x00000000        0x1 src/include/emstream.o
+ .text._ZN8emstreamC2Ev
+                0x00000000       0x44 src/include/emstream.o
+ .text._ZN8emstream13ready_to_sendEv
+                0x00000000       0x1a src/include/emstream.o
+ .text._ZN8emstream7getcharEv
+                0x00000000       0x1a src/include/emstream.o
+ .text._ZN8emstream14check_for_charEv
+                0x00000000       0x1a src/include/emstream.o
+ .text._ZN8emstream12transmit_nowEv
+                0x00000000       0x1a src/include/emstream.o
+ .text._ZN8emstream12clear_screenEv
+                0x00000000       0x36 src/include/emstream.o
+ .text._Z12setprecisionh
+                0x00000000       0x26 src/include/emstream.o
+ .text._Z7setbaseh
+                0x00000000       0x2c src/include/emstream.o
+ .text._ZN8emstreamlsE15ser_manipulator
+                0x00000000      0x11a src/include/emstream.o
+ .progmem.gcc_sw_table._ZN8emstreamlsE15ser_manipulator
+                0x00000000       0x18 src/include/emstream.o
+ .rodata._ZTV8emstream
+                0x00000000       0x10 src/include/emstream.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/event_groups.o
+ .text          0x00000000        0x0 src/include/event_groups.o
+ .data          0x00000000        0x0 src/include/event_groups.o
+ .bss           0x00000000        0x0 src/include/event_groups.o
+ .text.xEventGroupCreate
+                0x00000000       0x44 src/include/event_groups.o
+ .text.xEventGroupSync
+                0x00000000      0x270 src/include/event_groups.o
+ .text.xEventGroupWaitBits
+                0x00000000      0x26e src/include/event_groups.o
+ .text.xEventGroupClearBits
+                0x00000000       0x9a src/include/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x56 src/include/event_groups.o
+ .text.xEventGroupSetBits
+                0x00000000      0x21c src/include/event_groups.o
+ .text.vEventGroupDelete
+                0x00000000       0x6c src/include/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x00000000       0x44 src/include/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x00000000       0x44 src/include/event_groups.o
+ .text.prvTestWaitCondition
+                0x00000000       0x9a src/include/event_groups.o
+ .debug_info    0x00000000      0x644 src/include/event_groups.o
+ .debug_abbrev  0x00000000      0x13c src/include/event_groups.o
+ .debug_loc     0x00000000      0x373 src/include/event_groups.o
+ .debug_aranges
+                0x00000000       0x68 src/include/event_groups.o
+ .debug_ranges  0x00000000       0x58 src/include/event_groups.o
+ .debug_macro   0x00000000      0x138 src/include/event_groups.o
+ .debug_macro   0x00000000      0xa4e src/include/event_groups.o
+ .debug_macro   0x00000000       0x1c src/include/event_groups.o
+ .debug_macro   0x00000000      0x10e src/include/event_groups.o
+ .debug_macro   0x00000000       0x66 src/include/event_groups.o
+ .debug_macro   0x00000000       0x86 src/include/event_groups.o
+ .debug_macro   0x00000000      0x1c9 src/include/event_groups.o
+ .debug_macro   0x00000000       0x10 src/include/event_groups.o
+ .debug_macro   0x00000000       0x10 src/include/event_groups.o
+ .debug_macro   0x00000000      0x302 src/include/event_groups.o
+ .debug_macro   0x00000000       0x9e src/include/event_groups.o
+ .debug_macro   0x00000000     0x1543 src/include/event_groups.o
+ .debug_macro   0x00000000      0x203 src/include/event_groups.o
+ .debug_macro   0x00000000       0xbd src/include/event_groups.o
+ .debug_macro   0x00000000       0x34 src/include/event_groups.o
+ .debug_macro   0x00000000       0x18 src/include/event_groups.o
+ .debug_macro   0x00000000       0x6c src/include/event_groups.o
+ .debug_macro   0x00000000       0xdf src/include/event_groups.o
+ .debug_macro   0x00000000       0x46 src/include/event_groups.o
+ .debug_macro   0x00000000       0x8c src/include/event_groups.o
+ .debug_macro   0x00000000       0x12 src/include/event_groups.o
+ .debug_macro   0x00000000       0x1f src/include/event_groups.o
+ .debug_macro   0x00000000      0x306 src/include/event_groups.o
+ .debug_macro   0x00000000       0x79 src/include/event_groups.o
+ .debug_macro   0x00000000       0x69 src/include/event_groups.o
+ .debug_macro   0x00000000       0x97 src/include/event_groups.o
+ .debug_macro   0x00000000       0x1f src/include/event_groups.o
+ .debug_line    0x00000000      0x63a src/include/event_groups.o
+ .debug_str     0x00000000     0xa2ca src/include/event_groups.o
+ .comment       0x00000000       0x31 src/include/event_groups.o
+ .debug_frame   0x00000000      0x19c src/include/event_groups.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/heap_2.o
+ .text          0x00000000        0x0 src/include/heap_2.o
+ .data          0x00000000        0x0 src/include/heap_2.o
+ .bss           0x00000000        0x0 src/include/heap_2.o
+ .rodata.heapSTRUCT_SIZE
+                0x00000000        0x2 src/include/heap_2.o
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x16 src/include/heap_2.o
+ .text.vPortInitialiseBlocks
+                0x00000000       0x10 src/include/heap_2.o
+ .debug_macro   0x00000000      0xa4e src/include/heap_2.o
+ .debug_macro   0x00000000       0x1c src/include/heap_2.o
+ .debug_macro   0x00000000      0x10e src/include/heap_2.o
+ .debug_macro   0x00000000       0x66 src/include/heap_2.o
+ .debug_macro   0x00000000       0x86 src/include/heap_2.o
+ .debug_macro   0x00000000      0x1c9 src/include/heap_2.o
+ .debug_macro   0x00000000       0x10 src/include/heap_2.o
+ .debug_macro   0x00000000       0x10 src/include/heap_2.o
+ .debug_macro   0x00000000      0x302 src/include/heap_2.o
+ .debug_macro   0x00000000       0x9e src/include/heap_2.o
+ .debug_macro   0x00000000     0x1543 src/include/heap_2.o
+ .debug_macro   0x00000000      0x203 src/include/heap_2.o
+ .debug_macro   0x00000000       0xbd src/include/heap_2.o
+ .debug_macro   0x00000000       0x34 src/include/heap_2.o
+ .debug_macro   0x00000000       0x18 src/include/heap_2.o
+ .debug_macro   0x00000000       0x6c src/include/heap_2.o
+ .debug_macro   0x00000000       0xdf src/include/heap_2.o
+ .debug_macro   0x00000000       0x46 src/include/heap_2.o
+ .debug_macro   0x00000000       0x8c src/include/heap_2.o
+ .debug_macro   0x00000000       0x12 src/include/heap_2.o
+ .debug_macro   0x00000000       0x1f src/include/heap_2.o
+ .debug_macro   0x00000000      0x306 src/include/heap_2.o
+ .debug_macro   0x00000000       0x79 src/include/heap_2.o
+ .debug_macro   0x00000000       0x69 src/include/heap_2.o
+ .group         0x00000000        0x8 src/include/i2c_master.o
+ .group         0x00000000        0x8 src/include/i2c_master.o
+ .group         0x00000000        0x8 src/include/i2c_master.o
+ .group         0x00000000        0x8 src/include/i2c_master.o
+ .text          0x00000000        0x0 src/include/i2c_master.o
+ .data          0x00000000        0x0 src/include/i2c_master.o
+ .bss           0x00000000        0x0 src/include/i2c_master.o
+ .text._ZN8emstreamlsEPKc
+                0x00000000       0x34 src/include/i2c_master.o
+ .text._ZN8emstreamlsEc
+                0x00000000       0x3e src/include/i2c_master.o
+ .text._ZN8emstreamlsEh
+                0x00000000       0x3e src/include/i2c_master.o
+ .rodata._ZL14I2C_TWBR_VALUE
+                0x00000000        0x1 src/include/i2c_master.o
+ .text._ZN10i2c_master4stopEv
+                0x00000000       0x1a src/include/i2c_master.o
+ .rodata        0x00000000       0x3c src/include/i2c_master.o
+ .text._ZN10i2c_masterC2EP8emstream
+                0x00000000       0x8a src/include/i2c_master.o
+ .text._ZN10i2c_master5startEv
+                0x00000000       0x70 src/include/i2c_master.o
+ .progmem.something
+                0x00000000       0x3f src/include/i2c_master.o
+ .text._ZN10i2c_master7restartEv
+                0x00000000       0xe0 src/include/i2c_master.o
+ .text._ZN10i2c_master10write_byteEh
+                0x00000000       0xba src/include/i2c_master.o
+ .text._ZN10i2c_master9read_byteEb
+                0x00000000       0xa2 src/include/i2c_master.o
+ .text._ZN10i2c_master4readEhh
+                0x00000000      0x154 src/include/i2c_master.o
+ .text._ZN10i2c_master4readEhhPhh
+                0x00000000      0x1a2 src/include/i2c_master.o
+ .text._ZN10i2c_master5writeEhhh
+                0x00000000       0xf6 src/include/i2c_master.o
+ .text._ZN10i2c_master5writeEhhPhh
+                0x00000000      0x170 src/include/i2c_master.o
+ .text._ZN10i2c_master9check_SDAEv
+                0x00000000       0x3a src/include/i2c_master.o
+ .text._ZN10i2c_master4pingEh
+                0x00000000       0x76 src/include/i2c_master.o
+ .text._ZN10i2c_master4scanEP8emstream
+                0x00000000      0x118 src/include/i2c_master.o
+ .debug_info    0x00000000      0x9d6 src/include/i2c_master.o
+ .debug_abbrev  0x00000000      0x2a4 src/include/i2c_master.o
+ .debug_loc     0x00000000      0x541 src/include/i2c_master.o
+ .debug_aranges
+                0x00000000       0x98 src/include/i2c_master.o
+ .debug_ranges  0x00000000       0x88 src/include/i2c_master.o
+ .debug_line    0x00000000      0x748 src/include/i2c_master.o
+ .debug_str     0x00000000      0x581 src/include/i2c_master.o
+ .comment       0x00000000       0x31 src/include/i2c_master.o
+ .debug_frame   0x00000000      0x274 src/include/i2c_master.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .group         0x00000000        0x8 src/include/list.o
+ .text          0x00000000        0x0 src/include/list.o
+ .data          0x00000000        0x0 src/include/list.o
+ .bss           0x00000000        0x0 src/include/list.o
+ .debug_macro   0x00000000      0xa4e src/include/list.o
+ .debug_macro   0x00000000       0x1c src/include/list.o
+ .debug_macro   0x00000000      0x10e src/include/list.o
+ .debug_macro   0x00000000       0x66 src/include/list.o
+ .debug_macro   0x00000000       0x86 src/include/list.o
+ .debug_macro   0x00000000      0x1c9 src/include/list.o
+ .debug_macro   0x00000000       0x10 src/include/list.o
+ .debug_macro   0x00000000       0x10 src/include/list.o
+ .debug_macro   0x00000000      0x302 src/include/list.o
+ .debug_macro   0x00000000       0x9e src/include/list.o
+ .debug_macro   0x00000000     0x1543 src/include/list.o
+ .debug_macro   0x00000000      0x203 src/include/list.o
+ .debug_macro   0x00000000       0xbd src/include/list.o
+ .debug_macro   0x00000000       0x34 src/include/list.o
+ .debug_macro   0x00000000       0x18 src/include/list.o
+ .debug_macro   0x00000000       0x6c src/include/list.o
+ .debug_macro   0x00000000       0xdf src/include/list.o
+ .debug_macro   0x00000000       0x46 src/include/list.o
+ .debug_macro   0x00000000       0x8c src/include/list.o
+ .debug_macro   0x00000000       0x12 src/include/list.o
+ .debug_macro   0x00000000       0x1f src/include/list.o
+ .debug_macro   0x00000000      0x306 src/include/list.o
+ .debug_macro   0x00000000       0x79 src/include/list.o
+ .text          0x00000000        0x0 src/include/mechutil.o
+ .data          0x00000000        0x0 src/include/mechutil.o
+ .bss           0x00000000        0x0 src/include/mechutil.o
+ .text._ZdlPv   0x00000000       0x2a src/include/mechutil.o
+ .text._Znaj    0x00000000       0x20 src/include/mechutil.o
+ .text._ZdaPv   0x00000000       0x2a src/include/mechutil.o
+ .text.__cxa_guard_acquire
+                0x00000000       0x2c src/include/mechutil.o
+ .text.__cxa_guard_release
+                0x00000000       0x24 src/include/mechutil.o
+ .text.__cxa_guard_abort
+                0x00000000       0x1a src/include/mechutil.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .group         0x00000000        0x8 src/include/port.o
+ .text          0x00000000        0x0 src/include/port.o
+ .data          0x00000000        0x0 src/include/port.o
+ .bss           0x00000000        0x0 src/include/port.o
+ .text.xPortStartScheduler
+                0x00000000       0x6a src/include/port.o
+ .text.vPortEndScheduler
+                0x00000000       0x10 src/include/port.o
+ .text.prvSetupTimerInterrupt
+                0x00000000       0x4e src/include/port.o
+ .debug_macro   0x00000000      0xa4e src/include/port.o
+ .debug_macro   0x00000000       0x1c src/include/port.o
+ .debug_macro   0x00000000      0x10e src/include/port.o
+ .debug_macro   0x00000000       0x66 src/include/port.o
+ .debug_macro   0x00000000       0x10 src/include/port.o
+ .debug_macro   0x00000000      0x1c9 src/include/port.o
+ .debug_macro   0x00000000      0x2fc src/include/port.o
+ .debug_macro   0x00000000       0x9e src/include/port.o
+ .debug_macro   0x00000000     0x1543 src/include/port.o
+ .debug_macro   0x00000000      0x203 src/include/port.o
+ .debug_macro   0x00000000       0xbd src/include/port.o
+ .debug_macro   0x00000000       0x34 src/include/port.o
+ .debug_macro   0x00000000       0x18 src/include/port.o
+ .debug_macro   0x00000000       0x6c src/include/port.o
+ .debug_macro   0x00000000       0x86 src/include/port.o
+ .debug_macro   0x00000000       0x46 src/include/port.o
+ .debug_macro   0x00000000       0x8c src/include/port.o
+ .debug_macro   0x00000000       0x12 src/include/port.o
+ .debug_macro   0x00000000       0x1f src/include/port.o
+ .debug_macro   0x00000000      0x306 src/include/port.o
+ .debug_macro   0x00000000       0x79 src/include/port.o
+ .debug_macro   0x00000000       0x69 src/include/port.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .group         0x00000000        0x8 src/include/queue.o
+ .text          0x00000000        0x0 src/include/queue.o
+ .data          0x00000000        0x0 src/include/queue.o
+ .bss           0x00000000        0x0 src/include/queue.o
+ .text.xQueueGenericReset
+                0x00000000      0x128 src/include/queue.o
+ .text.xQueueGenericCreate
+                0x00000000       0xc4 src/include/queue.o
+ .text.xQueueCreateMutex
+                0x00000000       0xb6 src/include/queue.o
+ .text.xQueueGenericSend
+                0x00000000      0x17c src/include/queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000       0xd6 src/include/queue.o
+ .text.xQueueGenericReceive
+                0x00000000      0x1fc src/include/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0xc2 src/include/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0x78 src/include/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x32 src/include/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x4e src/include/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x28 src/include/queue.o
+ .text.vQueueDelete
+                0x00000000       0x4c src/include/queue.o
+ .text.prvCopyDataToQueue
+                0x00000000      0x1aa src/include/queue.o
+ .text.prvCopyDataFromQueue
+                0x00000000       0xa2 src/include/queue.o
+ .text.prvUnlockQueue
+                0x00000000       0xca src/include/queue.o
+ .text.prvIsQueueEmpty
+                0x00000000       0x3c src/include/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x32 src/include/queue.o
+ .text.prvIsQueueFull
+                0x00000000       0x44 src/include/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x3a src/include/queue.o
+ .debug_info    0x00000000      0x982 src/include/queue.o
+ .debug_abbrev  0x00000000      0x1a7 src/include/queue.o
+ .debug_loc     0x00000000      0x579 src/include/queue.o
+ .debug_aranges
+                0x00000000       0xb0 src/include/queue.o
+ .debug_ranges  0x00000000       0xa0 src/include/queue.o
+ .debug_macro   0x00000000      0x166 src/include/queue.o
+ .debug_macro   0x00000000      0xa4e src/include/queue.o
+ .debug_macro   0x00000000       0x1c src/include/queue.o
+ .debug_macro   0x00000000      0x10e src/include/queue.o
+ .debug_macro   0x00000000       0x66 src/include/queue.o
+ .debug_macro   0x00000000       0x16 src/include/queue.o
+ .debug_macro   0x00000000       0x20 src/include/queue.o
+ .debug_macro   0x00000000       0x86 src/include/queue.o
+ .debug_macro   0x00000000      0x1c9 src/include/queue.o
+ .debug_macro   0x00000000       0x10 src/include/queue.o
+ .debug_macro   0x00000000       0x10 src/include/queue.o
+ .debug_macro   0x00000000      0x302 src/include/queue.o
+ .debug_macro   0x00000000       0x9e src/include/queue.o
+ .debug_macro   0x00000000     0x1543 src/include/queue.o
+ .debug_macro   0x00000000      0x203 src/include/queue.o
+ .debug_macro   0x00000000       0xbd src/include/queue.o
+ .debug_macro   0x00000000       0x34 src/include/queue.o
+ .debug_macro   0x00000000       0x18 src/include/queue.o
+ .debug_macro   0x00000000       0x6c src/include/queue.o
+ .debug_macro   0x00000000       0xdf src/include/queue.o
+ .debug_macro   0x00000000       0x46 src/include/queue.o
+ .debug_macro   0x00000000       0x8c src/include/queue.o
+ .debug_macro   0x00000000       0x12 src/include/queue.o
+ .debug_macro   0x00000000       0x1f src/include/queue.o
+ .debug_macro   0x00000000      0x306 src/include/queue.o
+ .debug_macro   0x00000000       0x79 src/include/queue.o
+ .debug_macro   0x00000000       0x69 src/include/queue.o
+ .debug_macro   0x00000000       0xb0 src/include/queue.o
+ .debug_line    0x00000000      0xa2a src/include/queue.o
+ .debug_str     0x00000000     0xa764 src/include/queue.o
+ .comment       0x00000000       0x31 src/include/queue.o
+ .debug_frame   0x00000000      0x28c src/include/queue.o
+ .group         0x00000000        0x8 src/include/rs232int.o
+ .text          0x00000000        0x0 src/include/rs232int.o
+ .data          0x00000000        0x0 src/include/rs232int.o
+ .bss           0x00000000        0x0 src/include/rs232int.o
+ .text._ZN5rs232C2Ejh
+                0x00000000       0xc8 src/include/rs232int.o
+ .text._ZN5rs2327putcharEc
+                0x00000000       0x9e src/include/rs232int.o
+ .text._ZN5rs2327getcharEv
+                0x00000000       0xec src/include/rs232int.o
+ .text._ZN5rs23214check_for_charEv
+                0x00000000       0x5c src/include/rs232int.o
+ .text._ZN5rs23212clear_screenEv
+                0x00000000       0x36 src/include/rs232int.o
+ .rodata._ZTV5rs232
+                0x00000000       0x10 src/include/rs232int.o
+ .group         0x00000000        0x8 src/include/taskbase.o
+ .group         0x00000000        0x8 src/include/taskbase.o
+ .text          0x00000000        0x0 src/include/taskbase.o
+ .data          0x00000000        0x0 src/include/taskbase.o
+ .bss           0x00000000        0x0 src/include/taskbase.o
+ .text._ZN8emstreamlsEPKc
+                0x00000000       0x34 src/include/taskbase.o
+ .rodata._ZL15HW_TICK_RATE_HZ
+                0x00000000        0x4 src/include/taskbase.o
+ .rodata._ZL10TMR_MAX_CT
+                0x00000000        0x4 src/include/taskbase.o
+ .text._ZN8TaskBase13transition_toEh
+                0x00000000       0x3a src/include/taskbase.o
+ .text._ZN8TaskBase15emergency_resetEPKc
+                0x00000000       0x54 src/include/taskbase.o
+ .text._Z19get_tick_time_floatv
+                0x00000000       0x3a src/include/taskbase.o
+ .group         0x00000000        0x8 src/include/taskbase_stackprt.o
+ .group         0x00000000        0x8 src/include/taskbase_stackprt.o
+ .text          0x00000000        0x0 src/include/taskbase_stackprt.o
+ .data          0x00000000        0x0 src/include/taskbase_stackprt.o
+ .bss           0x00000000        0x0 src/include/taskbase_stackprt.o
+ .text._ZN8emstreamlsEPKc
+                0x00000000       0x34 src/include/taskbase_stackprt.o
+ .rodata._ZL15HW_TICK_RATE_HZ
+                0x00000000        0x4 src/include/taskbase_stackprt.o
+ .rodata._ZL10TMR_MAX_CT
+                0x00000000        0x4 src/include/taskbase_stackprt.o
+ .text._ZN8TaskBase10dump_stackEP8emstream
+                0x00000000       0x5a src/include/taskbase_stackprt.o
+ .progmem.something
+                0x00000000       0x12 src/include/taskbase_stackprt.o
+ .text._Z17print_task_stacksP8emstream
+                0x00000000       0x80 src/include/taskbase_stackprt.o
+ .text._ZN8TaskBase19print_stack_in_listEP8emstream
+                0x00000000       0x94 src/include/taskbase_stackprt.o
+ .debug_info    0x00000000      0x31d src/include/taskbase_stackprt.o
+ .debug_abbrev  0x00000000      0x175 src/include/taskbase_stackprt.o
+ .debug_loc     0x00000000      0x16e src/include/taskbase_stackprt.o
+ .debug_aranges
+                0x00000000       0x38 src/include/taskbase_stackprt.o
+ .debug_ranges  0x00000000       0x28 src/include/taskbase_stackprt.o
+ .debug_line    0x00000000      0x1ab src/include/taskbase_stackprt.o
+ .debug_str     0x00000000      0x3a1 src/include/taskbase_stackprt.o
+ .comment       0x00000000       0x31 src/include/taskbase_stackprt.o
+ .debug_frame   0x00000000       0xb4 src/include/taskbase_stackprt.o
+ .group         0x00000000        0x8 src/include/taskbase_status.o
+ .group         0x00000000        0x8 src/include/taskbase_status.o
+ .group         0x00000000        0x8 src/include/taskbase_status.o
+ .text          0x00000000        0x0 src/include/taskbase_status.o
+ .data          0x00000000        0x0 src/include/taskbase_status.o
+ .bss           0x00000000        0x0 src/include/taskbase_status.o
+ .text._ZN8emstreamlsEPKc
+                0x00000000       0x34 src/include/taskbase_status.o
+ .text._ZN8emstreamlsEh
+                0x00000000       0x3e src/include/taskbase_status.o
+ .rodata._ZL15HW_TICK_RATE_HZ
+                0x00000000        0x4 src/include/taskbase_status.o
+ .rodata._ZL10TMR_MAX_CT
+                0x00000000        0x4 src/include/taskbase_status.o
+ .text._ZN8TaskBase20print_status_in_listEP8emstream
+                0x00000000       0x5a src/include/taskbase_status.o
+ .text._ZlsR8emstreamR8TaskBase
+                0x00000000       0x46 src/include/taskbase_status.o
+ .progmem.something
+                0x00000000       0x69 src/include/taskbase_status.o
+ .text._Z15print_task_listP8emstream
+                0x00000000      0x17c src/include/taskbase_status.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/tasks.o
+ .text          0x00000000        0x0 src/include/tasks.o
+ .data          0x00000000        0x0 src/include/tasks.o
+ .bss           0x00000000        0x0 src/include/tasks.o
+ .bss.xIdleTaskHandle
+                0x00000000        0x2 src/include/tasks.o
+ .text.vTaskDelayUntil
+                0x00000000      0x160 src/include/tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x52 src/include/tasks.o
+ .text.vTaskPrioritySet
+                0x00000000      0x1c0 src/include/tasks.o
+ .rodata        0x00000000        0x5 src/include/tasks.o
+ .text.vTaskStartScheduler
+                0x00000000       0x7e src/include/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x1a src/include/tasks.o
+ .text.xTaskGetTickCount
+                0x00000000       0x48 src/include/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x44 src/include/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x12 src/include/tasks.o
+ .text.xTaskGetIdleTaskHandle
+                0x00000000       0x16 src/include/tasks.o
+ .text.vTaskPlaceOnEventList
+                0x00000000       0x92 src/include/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0xbe src/include/tasks.o
+ .text.xTaskRemoveFromEventList
+                0x00000000       0xd4 src/include/tasks.o
+ .text.xTaskRemoveFromUnorderedEventList
+                0x00000000       0xda src/include/tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x44 src/include/tasks.o
+ .text.xTaskCheckForTimeOut
+                0x00000000      0x138 src/include/tasks.o
+ .text.vTaskMissedYield
+                0x00000000       0x16 src/include/tasks.o
+ .text.prvIdleTask
+                0x00000000       0x20 src/include/tasks.o
+ .text.prvCheckTasksWaitingTermination
+                0x00000000       0x10 src/include/tasks.o
+ .text.prvTaskCheckFreeStackSpace
+                0x00000000       0x5e src/include/tasks.o
+ .text.uxTaskGetStackHighWaterMark
+                0x00000000       0x5e src/include/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000       0x24 src/include/tasks.o
+ .text.vTaskPriorityInherit
+                0x00000000      0x150 src/include/tasks.o
+ .text.xTaskPriorityDisinherit
+                0x00000000      0x11c src/include/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x8e src/include/tasks.o
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x34 src/include/tasks.o
+ .debug_macro   0x00000000      0xa4e src/include/tasks.o
+ .debug_macro   0x00000000       0x1c src/include/tasks.o
+ .debug_macro   0x00000000      0x10e src/include/tasks.o
+ .debug_macro   0x00000000       0x66 src/include/tasks.o
+ .debug_macro   0x00000000       0x16 src/include/tasks.o
+ .debug_macro   0x00000000       0x20 src/include/tasks.o
+ .debug_macro   0x00000000       0x86 src/include/tasks.o
+ .debug_macro   0x00000000      0x1c9 src/include/tasks.o
+ .debug_macro   0x00000000       0x10 src/include/tasks.o
+ .debug_macro   0x00000000       0x10 src/include/tasks.o
+ .debug_macro   0x00000000      0x302 src/include/tasks.o
+ .debug_macro   0x00000000       0x9e src/include/tasks.o
+ .debug_macro   0x00000000     0x1543 src/include/tasks.o
+ .debug_macro   0x00000000      0x203 src/include/tasks.o
+ .debug_macro   0x00000000       0xbd src/include/tasks.o
+ .debug_macro   0x00000000       0x34 src/include/tasks.o
+ .debug_macro   0x00000000       0x18 src/include/tasks.o
+ .debug_macro   0x00000000       0x6c src/include/tasks.o
+ .debug_macro   0x00000000       0xdf src/include/tasks.o
+ .debug_macro   0x00000000       0x46 src/include/tasks.o
+ .debug_macro   0x00000000       0x8c src/include/tasks.o
+ .debug_macro   0x00000000       0x12 src/include/tasks.o
+ .debug_macro   0x00000000       0x1f src/include/tasks.o
+ .debug_macro   0x00000000      0x306 src/include/tasks.o
+ .debug_macro   0x00000000       0x79 src/include/tasks.o
+ .debug_macro   0x00000000       0x69 src/include/tasks.o
+ .debug_macro   0x00000000       0x97 src/include/tasks.o
+ .group         0x00000000        0x8 src/include/textqueue.o
+ .group         0x00000000        0x8 src/include/textqueue.o
+ .group         0x00000000        0x8 src/include/textqueue.o
+ .group         0x00000000        0x8 src/include/textqueue.o
+ .group         0x00000000        0x8 src/include/textqueue.o
+ .group         0x00000000        0x8 src/include/textqueue.o
+ .group         0x00000000        0x8 src/include/textqueue.o
+ .text          0x00000000        0x0 src/include/textqueue.o
+ .data          0x00000000        0x0 src/include/textqueue.o
+ .bss           0x00000000        0x0 src/include/textqueue.o
+ .text._ZN8emstreamlsEPKc
+                0x00000000       0x34 src/include/textqueue.o
+ .text._ZN8emstreamlsEc
+                0x00000000       0x3e src/include/textqueue.o
+ .text._ZN8emstreamlsEh
+                0x00000000       0x3e src/include/textqueue.o
+ .text._ZN9TextQueueC2EjPKcP8emstreamm
+                0x00000000       0xce src/include/textqueue.o
+ .text._ZN9TextQueue7putcharEc
+                0x00000000       0x5c src/include/textqueue.o
+ .text._ZN9TextQueue14check_for_charEv
+                0x00000000       0x30 src/include/textqueue.o
+ .text._ZN9TextQueue7getcharEv
+                0x00000000       0x50 src/include/textqueue.o
+ .rodata        0x00000000        0x7 src/include/textqueue.o
+ .text._ZN9TextQueue13print_in_listEP8emstream
+                0x00000000      0x102 src/include/textqueue.o
+ .text._ZThn6_N9TextQueue13print_in_listEP8emstream
+                0x00000000       0x3a src/include/textqueue.o
+ .rodata._ZTV9TextQueue
+                0x00000000       0x18 src/include/textqueue.o
+ .debug_info    0x00000000      0x676 src/include/textqueue.o
+ .debug_abbrev  0x00000000      0x27f src/include/textqueue.o
+ .debug_loc     0x00000000      0x2a7 src/include/textqueue.o
+ .debug_aranges
+                0x00000000       0x58 src/include/textqueue.o
+ .debug_ranges  0x00000000       0x48 src/include/textqueue.o
+ .debug_line    0x00000000      0x255 src/include/textqueue.o
+ .debug_str     0x00000000      0x526 src/include/textqueue.o
+ .comment       0x00000000       0x31 src/include/textqueue.o
+ .debug_frame   0x00000000      0x164 src/include/textqueue.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .group         0x00000000        0x8 src/include/timers.o
+ .text          0x00000000        0x0 src/include/timers.o
+ .data          0x00000000        0x0 src/include/timers.o
+ .bss           0x00000000        0x0 src/include/timers.o
+ .debug_info    0x00000000       0x68 src/include/timers.o
+ .debug_abbrev  0x00000000       0x29 src/include/timers.o
+ .debug_aranges
+                0x00000000       0x18 src/include/timers.o
+ .debug_macro   0x00000000      0x120 src/include/timers.o
+ .debug_macro   0x00000000      0xa4e src/include/timers.o
+ .debug_macro   0x00000000       0x1c src/include/timers.o
+ .debug_macro   0x00000000      0x10e src/include/timers.o
+ .debug_macro   0x00000000       0x66 src/include/timers.o
+ .debug_macro   0x00000000       0x86 src/include/timers.o
+ .debug_macro   0x00000000      0x1c9 src/include/timers.o
+ .debug_macro   0x00000000       0x10 src/include/timers.o
+ .debug_macro   0x00000000       0x10 src/include/timers.o
+ .debug_macro   0x00000000      0x302 src/include/timers.o
+ .debug_macro   0x00000000       0x9e src/include/timers.o
+ .debug_macro   0x00000000     0x1543 src/include/timers.o
+ .debug_macro   0x00000000      0x203 src/include/timers.o
+ .debug_macro   0x00000000       0xbd src/include/timers.o
+ .debug_macro   0x00000000       0x34 src/include/timers.o
+ .debug_macro   0x00000000       0x18 src/include/timers.o
+ .debug_macro   0x00000000       0x6c src/include/timers.o
+ .debug_macro   0x00000000       0xdf src/include/timers.o
+ .debug_macro   0x00000000       0x46 src/include/timers.o
+ .debug_macro   0x00000000       0x8c src/include/timers.o
+ .debug_macro   0x00000000       0x12 src/include/timers.o
+ .debug_macro   0x00000000       0x1f src/include/timers.o
+ .debug_macro   0x00000000      0x306 src/include/timers.o
+ .debug_macro   0x00000000       0x79 src/include/timers.o
+ .debug_macro   0x00000000       0x69 src/include/timers.o
+ .debug_macro   0x00000000       0xb0 src/include/timers.o
+ .debug_macro   0x00000000       0x97 src/include/timers.o
+ .debug_line    0x00000000      0x271 src/include/timers.o
+ .debug_str     0x00000000     0xa6f9 src/include/timers.o
+ .comment       0x00000000       0x31 src/include/timers.o
+ .text          0x00000000        0x0 src/main_mega.o
+ .data          0x00000000        0x0 src/main_mega.o
+ .bss           0x00000000        0x0 src/main_mega.o
+ .rodata._ZL15HW_TICK_RATE_HZ
+                0x00000000        0x4 src/main_mega.o
+ .rodata._ZL10TMR_MAX_CT
+                0x00000000        0x4 src/main_mega.o
+ .rodata._ZL13N_MULTI_TASKS
+                0x00000000        0x1 src/main_mega.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc   0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text.avr-libc
+                0x00000000       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .text.avr-libc
+                0x00000000       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strncpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+LOAD src/ATMega/communication_data.o
+LOAD src/ATMega/fifth_wheel.o
+LOAD src/ATMega/gear_shifter.o
+LOAD src/ATMega/imu_task.o
+LOAD src/ATMega/mega_comm_task.o
+LOAD src/ATMega/motor_driver.o
+LOAD src/ATMega/servo.o
+LOAD src/ATMega/steer_servo.o
+LOAD src/ATMega/wheel_speed.o
+LOAD src/config/mega/boards/stk600/rcx_x/init.o
+LOAD src/include/Adafruit_BNO055.o
+LOAD src/include/base232.o
+LOAD src/include/baseshare.o
+LOAD src/include/croutine.o
+LOAD src/include/emstream.o
+LOAD src/include/event_groups.o
+LOAD src/include/heap_2.o
+LOAD src/include/i2c_master.o
+LOAD src/include/list.o
+LOAD src/include/mechutil.o
+LOAD src/include/port.o
+LOAD src/include/queue.o
+LOAD src/include/rs232int.o
+LOAD src/include/taskbase.o
+LOAD src/include/taskbase_stackprt.o
+LOAD src/include/taskbase_status.o
+LOAD src/include/tasks.o
+LOAD src/include/textqueue.o
+LOAD src/include/timers.o
+LOAD src/main_mega.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5\libatmega64.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1d24
+ *(.vectors)
+ .vectors       0x00000000       0x8c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000008c                . = ALIGN (0x2)
+                0x0000008c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000008c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000008c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000008c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000008c                __ctors_start = .
+ *(.ctors)
+                0x0000008c                __ctors_end = .
+                0x0000008c                __dtors_start = .
+ *(.dtors)
+                0x0000008c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000008c        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+                0x0000008c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000008c        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000098       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000098                __do_copy_data
+ .init4         0x000000ae       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000ae                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000be        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+ *(.init9)
+ *(.text)
+ .text          0x000000c6        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+                0x000000c6                __vector_22
+                0x000000c6                __vector_28
+                0x000000c6                __vector_1
+                0x000000c6                __vector_32
+                0x000000c6                __vector_34
+                0x000000c6                __vector_24
+                0x000000c6                __vector_12
+                0x000000c6                __bad_interrupt
+                0x000000c6                __vector_6
+                0x000000c6                __vector_31
+                0x000000c6                __vector_3
+                0x000000c6                __vector_23
+                0x000000c6                __vector_25
+                0x000000c6                __vector_11
+                0x000000c6                __vector_13
+                0x000000c6                __vector_17
+                0x000000c6                __vector_19
+                0x000000c6                __vector_7
+                0x000000c6                __vector_27
+                0x000000c6                __vector_5
+                0x000000c6                __vector_33
+                0x000000c6                __vector_4
+                0x000000c6                __vector_9
+                0x000000c6                __vector_2
+                0x000000c6                __vector_21
+                0x000000c6                __vector_15
+                0x000000c6                __vector_29
+                0x000000c6                __vector_8
+                0x000000c6                __vector_14
+                0x000000c6                __vector_10
+                0x000000c6                __vector_16
+                0x000000c6                __vector_20
+                0x000000ca                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN11fifth_wheelC2EPKchjP8emstreamP17semi_truck_data_tPVjh
+                0x000000ca       0xb0 src/ATMega/fifth_wheel.o
+                0x000000ca                _ZN11fifth_wheelC2EPKchjP8emstreamP17semi_truck_data_tPVjh
+                0x000000ca                _ZN11fifth_wheelC1EPKchjP8emstreamP17semi_truck_data_tPVjh
+ .text._ZN11fifth_wheel3runEv
+                0x0000017a       0xc8 src/ATMega/fifth_wheel.o
+                0x0000017a                _ZN11fifth_wheel3runEv
+ .text._ZN11fifth_wheel10lock_servoEv
+                0x00000242       0x38 src/ATMega/fifth_wheel.o
+                0x00000242                _ZN11fifth_wheel10lock_servoEv
+ .text._ZN11fifth_wheel12unlock_servoEv
+                0x0000027a       0x36 src/ATMega/fifth_wheel.o
+                0x0000027a                _ZN11fifth_wheel12unlock_servoEv
+ .text._ZN5servoC2EPVjh
+                0x000002b0       0x7a src/ATMega/servo.o
+                0x000002b0                _ZN5servoC1EPVjh
+                0x000002b0                _ZN5servoC2EPVjh
+ .text._ZN5servo5writeEi
+                0x0000032a       0x3e src/ATMega/servo.o
+                0x0000032a                _ZN5servo5writeEi
+ .text._ZN8emstream4putsEPKc
+                0x00000368       0x24 src/include/emstream.o
+                0x00000368                _ZN8emstream4putsEPKc
+ .text.pvPortMalloc
+                0x0000038c      0x1de src/include/heap_2.o
+                0x0000038c                pvPortMalloc
+ .text.vPortFree
+                0x0000056a       0xe4 src/include/heap_2.o
+                0x0000056a                vPortFree
+ .text.prvHeapInit
+                0x0000064e       0x70 src/include/heap_2.o
+ .text.vListInitialise
+                0x000006be       0x72 src/include/list.o
+                0x000006be                vListInitialise
+ .text.vListInitialiseItem
+                0x00000730       0x24 src/include/list.o
+                0x00000730                vListInitialiseItem
+ .text.vListInsertEnd
+                0x00000754       0x9e src/include/list.o
+                0x00000754                vListInsertEnd
+ .text.vListInsert
+                0x000007f2      0x10e src/include/list.o
+                0x000007f2                vListInsert
+ .text.uxListRemove
+                0x00000900       0xae src/include/list.o
+                0x00000900                uxListRemove
+ .text._Znwj    0x000009ae       0x20 src/include/mechutil.o
+                0x000009ae                _Znwj
+ .text.__cxa_pure_virtual
+                0x000009ce       0x10 src/include/mechutil.o
+                0x000009ce                __cxa_pure_virtual
+ .text.pxPortInitialiseStack
+                0x000009de      0x35e src/include/port.o
+                0x000009de                pxPortInitialiseStack
+ .text.vPortYield
+                0x00000d3c       0xb4 src/include/port.o
+                0x00000d3c                vPortYield
+ .text.vPortYieldFromTick
+                0x00000df0       0xbc src/include/port.o
+                0x00000df0                vPortYieldFromTick
+ .text.__vector_26
+                0x00000eac        0x8 src/include/port.o
+                0x00000eac                __vector_26
+ .text.__vector_18
+                0x00000eb4       0xd0 src/include/rs232int.o
+                0x00000eb4                __vector_18
+ .text.__vector_30
+                0x00000f84       0xd0 src/include/rs232int.o
+                0x00000f84                __vector_30
+ .text._ZN8TaskBaseC2EPKchjP8emstream
+                0x00001054      0x112 src/include/taskbase.o
+                0x00001054                _ZN8TaskBaseC2EPKchjP8emstream
+                0x00001054                _ZN8TaskBaseC1EPKchjP8emstream
+ .text._call_static_run_method
+                0x00001166       0x22 src/include/taskbase.o
+                0x00001166                _call_static_run_method
+ .text._ZN8TaskBase22_call_users_run_methodEPS_
+                0x00001188       0x3c src/include/taskbase.o
+                0x00001188                _ZN8TaskBase22_call_users_run_methodEPS_
+ .text._ZN8TaskBase12print_statusER8emstream
+                0x000011c4       0x94 src/include/taskbase_status.o
+                0x000011c4                _ZN8TaskBase12print_statusER8emstream
+ .text.xTaskGenericCreate
+                0x00001258      0x1c6 src/include/tasks.o
+                0x00001258                xTaskGenericCreate
+ .text.vTaskDelay
+                0x0000141e       0x9c src/include/tasks.o
+                0x0000141e                vTaskDelay
+ .text.vTaskSuspendAll
+                0x000014ba       0x1a src/include/tasks.o
+                0x000014ba                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x000014d4      0x116 src/include/tasks.o
+                0x000014d4                xTaskResumeAll
+ .text.pcTaskGetTaskName
+                0x000015ea       0x3e src/include/tasks.o
+                0x000015ea                pcTaskGetTaskName
+ .text.xTaskIncrementTick
+                0x00001628      0x234 src/include/tasks.o
+                0x00001628                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x0000185c       0xd4 src/include/tasks.o
+                0x0000185c                vTaskSwitchContext
+ .text.prvInitialiseTCBVariables
+                0x00001930      0x128 src/include/tasks.o
+ .text.prvInitialiseTaskLists
+                0x00001a58       0x6e src/include/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x00001ac6       0xd4 src/include/tasks.o
+ .text.prvAllocateTCBAndStack
+                0x00001b9a       0x94 src/include/tasks.o
+ .text.prvResetNextTaskUnblockTime
+                0x00001c2e       0x74 src/include/tasks.o
+ .text.main     0x00001ca2       0x5e src/main_mega.o
+                0x00001ca2                main
+ .text.avr-libc
+                0x00001d00        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x00001d00                memset
+ .text.avr-libc
+                0x00001d0e       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+                0x00001d0e                strlen
+                0x00001d20                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001d20        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00001d20                _exit
+                0x00001d20                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001d20        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001d24                _etext = .
+
+.data           0x00800100       0x22 load address 0x00001d24
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.xFreeBytesRemaining
+                0x00800100        0x2 src/include/heap_2.o
+ .data.xNextTaskUnblockTime
+                0x00800102        0x4 src/include/tasks.o
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00800106        0xc src/main_mega.o
+ *(.rodata*)
+ .rodata._ZTV11fifth_wheel
+                0x00800112        0x8 src/ATMega/fifth_wheel.o
+                0x00800112                _ZTV11fifth_wheel
+ .rodata._ZTV8TaskBase
+                0x0080011a        0x8 src/include/taskbase_status.o
+                0x0080011a                _ZTV8TaskBase
+ *(.gnu.linkonce.r*)
+                0x00800122                . = ALIGN (0x2)
+                0x00800122                _edata = .
+                0x00800122                PROVIDE (__data_end, .)
+
+.bss            0x00800122      0xafe
+                0x00800122                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.ucHeap    0x00800122      0xa78 src/include/heap_2.o
+ .bss.xStart    0x00800b9a        0x4 src/include/heap_2.o
+ .bss.xEnd      0x00800b9e        0x4 src/include/heap_2.o
+ .bss.xHeapHasBeenInitialised.1989
+                0x00800ba2        0x1 src/include/heap_2.o
+ .bss.rcv0_buffer
+                0x00800ba3        0x2 src/include/rs232int.o
+                0x00800ba3                rcv0_buffer
+ .bss.rcv0_read_index
+                0x00800ba5        0x2 src/include/rs232int.o
+                0x00800ba5                rcv0_read_index
+ .bss.rcv0_write_index
+                0x00800ba7        0x2 src/include/rs232int.o
+                0x00800ba7                rcv0_write_index
+ .bss.rcv1_buffer
+                0x00800ba9        0x2 src/include/rs232int.o
+                0x00800ba9                rcv1_buffer
+ .bss.rcv1_read_index
+                0x00800bab        0x2 src/include/rs232int.o
+                0x00800bab                rcv1_read_index
+ .bss.rcv1_write_index
+                0x00800bad        0x2 src/include/rs232int.o
+                0x00800bad                rcv1_write_index
+ .bss.last_created_task_pointer
+                0x00800baf        0x2 src/include/taskbase.o
+                0x00800baf                last_created_task_pointer
+ .bss.pxCurrentTCB
+                0x00800bb1        0x2 src/include/tasks.o
+                0x00800bb1                pxCurrentTCB
+ .bss.pxReadyTasksLists
+                0x00800bb3       0x2c src/include/tasks.o
+ .bss.xDelayedTaskList1
+                0x00800bdf        0xb src/include/tasks.o
+ .bss.xDelayedTaskList2
+                0x00800bea        0xb src/include/tasks.o
+ .bss.pxDelayedTaskList
+                0x00800bf5        0x2 src/include/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x00800bf7        0x2 src/include/tasks.o
+ .bss.xPendingReadyList
+                0x00800bf9        0xb src/include/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x00800c04        0x1 src/include/tasks.o
+ .bss.xTickCount
+                0x00800c05        0x4 src/include/tasks.o
+ .bss.uxTopReadyPriority
+                0x00800c09        0x1 src/include/tasks.o
+ .bss.xSchedulerRunning
+                0x00800c0a        0x1 src/include/tasks.o
+ .bss.uxPendedTicks
+                0x00800c0b        0x1 src/include/tasks.o
+ .bss.xYieldPending
+                0x00800c0c        0x1 src/include/tasks.o
+ .bss.xNumOfOverflows
+                0x00800c0d        0x1 src/include/tasks.o
+ .bss.uxTaskNumber
+                0x00800c0e        0x1 src/include/tasks.o
+ .bss.uxSchedulerSuspended
+                0x00800c0f        0x1 src/include/tasks.o
+ .bss._ZZ4mainE15semi_truck_data
+                0x00800c10        0xe src/main_mega.o
+ *(COMMON)
+ COMMON         0x00800c1e        0x2 src/include/port.o
+                0x00800c1e                portStackTopForTask
+                0x00800c20                PROVIDE (__bss_end, .)
+                0x00001d24                __data_load_start = LOADADDR (.data)
+                0x00001d46                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800c20        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800c20                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 src/ATMega/fifth_wheel.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 src/ATMega/servo.o
+ .comment       0x00000030       0x31 src/include/emstream.o
+ .comment       0x00000030       0x31 src/include/heap_2.o
+ .comment       0x00000030       0x31 src/include/list.o
+ .comment       0x00000030       0x31 src/include/mechutil.o
+ .comment       0x00000030       0x31 src/include/port.o
+ .comment       0x00000030       0x31 src/include/rs232int.o
+ .comment       0x00000030       0x31 src/include/taskbase.o
+ .comment       0x00000030       0x31 src/include/taskbase_status.o
+ .comment       0x00000030       0x31 src/include/tasks.o
+ .comment       0x00000030       0x31 src/main_mega.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x438
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x38 src/ATMega/fifth_wheel.o
+ .debug_aranges
+                0x00000038       0x28 src/ATMega/servo.o
+ .debug_aranges
+                0x00000060       0x68 src/include/emstream.o
+ .debug_aranges
+                0x000000c8       0x40 src/include/heap_2.o
+ .debug_aranges
+                0x00000108       0x40 src/include/list.o
+ .debug_aranges
+                0x00000148       0x58 src/include/mechutil.o
+ .debug_aranges
+                0x000001a0       0x50 src/include/port.o
+ .debug_aranges
+                0x000001f0       0x50 src/include/rs232int.o
+ .debug_aranges
+                0x00000240       0x50 src/include/taskbase.o
+ .debug_aranges
+                0x00000290       0x48 src/include/taskbase_status.o
+ .debug_aranges
+                0x000002d8      0x140 src/include/tasks.o
+ .debug_aranges
+                0x00000418       0x20 src/main_mega.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x41c9
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x780 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+ .debug_info    0x00000780      0x4bb src/ATMega/fifth_wheel.o
+ .debug_info    0x00000c3b      0x1b2 src/ATMega/servo.o
+ .debug_info    0x00000ded      0x74c src/include/emstream.o
+ .debug_info    0x00001539      0x2cf src/include/heap_2.o
+ .debug_info    0x00001808      0x2ad src/include/list.o
+ .debug_info    0x00001ab5      0x1c3 src/include/mechutil.o
+ .debug_info    0x00001c78      0x227 src/include/port.o
+ .debug_info    0x00001e9f      0x460 src/include/rs232int.o
+ .debug_info    0x000022ff      0x431 src/include/taskbase.o
+ .debug_info    0x00002730      0x9f8 src/include/taskbase_status.o
+ .debug_info    0x00003128      0xe90 src/include/tasks.o
+ .debug_info    0x00003fb8      0x211 src/main_mega.o
+
+.debug_abbrev   0x00000000     0x1b09
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x718 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+ .debug_abbrev  0x00000718      0x1da src/ATMega/fifth_wheel.o
+ .debug_abbrev  0x000008f2      0x125 src/ATMega/servo.o
+ .debug_abbrev  0x00000a17      0x25a src/include/emstream.o
+ .debug_abbrev  0x00000c71      0x157 src/include/heap_2.o
+ .debug_abbrev  0x00000dc8       0xc3 src/include/list.o
+ .debug_abbrev  0x00000e8b       0xe7 src/include/mechutil.o
+ .debug_abbrev  0x00000f72      0x135 src/include/port.o
+ .debug_abbrev  0x000010a7      0x236 src/include/rs232int.o
+ .debug_abbrev  0x000012dd      0x261 src/include/taskbase.o
+ .debug_abbrev  0x0000153e      0x2ef src/include/taskbase_status.o
+ .debug_abbrev  0x0000182d      0x220 src/include/tasks.o
+ .debug_abbrev  0x00001a4d       0xbc src/main_mega.o
+
+.debug_line     0x00000000     0x2ddb
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x169 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+ .debug_line    0x00000169      0x25d src/ATMega/fifth_wheel.o
+ .debug_line    0x000003c6       0xe4 src/ATMega/servo.o
+ .debug_line    0x000004aa      0x285 src/include/emstream.o
+ .debug_line    0x0000072f      0x429 src/include/heap_2.o
+ .debug_line    0x00000b58      0x391 src/include/list.o
+ .debug_line    0x00000ee9      0x1a9 src/include/mechutil.o
+ .debug_line    0x00001092      0x56c src/include/port.o
+ .debug_line    0x000015fe      0x26f src/include/rs232int.o
+ .debug_line    0x0000186d      0x2de src/include/taskbase.o
+ .debug_line    0x00001b4b      0x2b9 src/include/taskbase_status.o
+ .debug_line    0x00001e04      0xec4 src/include/tasks.o
+ .debug_line    0x00002cc8      0x113 src/main_mega.o
+
+.debug_frame    0x00000000      0xef4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xb8 src/ATMega/fifth_wheel.o
+ .debug_frame   0x000000b8       0x54 src/ATMega/servo.o
+ .debug_frame   0x0000010c      0x154 src/include/emstream.o
+ .debug_frame   0x00000260       0xb4 src/include/heap_2.o
+ .debug_frame   0x00000314       0xb4 src/include/list.o
+ .debug_frame   0x000003c8      0x114 src/include/mechutil.o
+ .debug_frame   0x000004dc       0xc4 src/include/port.o
+ .debug_frame   0x000005a0      0x144 src/include/rs232int.o
+ .debug_frame   0x000006e4      0x11c src/include/taskbase.o
+ .debug_frame   0x00000800       0xf8 src/include/taskbase_status.o
+ .debug_frame   0x000008f8      0x598 src/include/tasks.o
+ .debug_frame   0x00000e90       0x64 src/main_mega.o
+
+.debug_str      0x00000000     0xcd4e
+ *(.debug_str)
+ .debug_str     0x00000000      0x27e C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega64/avr5/crtatmega64.o
+ .debug_str     0x0000027e      0x3a7 src/ATMega/fifth_wheel.o
+                                0x488 (size before relaxing)
+ .debug_str     0x00000625       0x2f src/ATMega/servo.o
+                                0x22c (size before relaxing)
+ .debug_str     0x00000654      0x370 src/include/emstream.o
+                                0x59a (size before relaxing)
+ .debug_str     0x000009c4     0x9704 src/include/heap_2.o
+                               0x989b (size before relaxing)
+ .debug_str     0x0000a0c8      0x134 src/include/list.o
+                               0x927b (size before relaxing)
+ .debug_str     0x0000a1fc       0xcb src/include/mechutil.o
+                                0x26b (size before relaxing)
+ .debug_str     0x0000a2c7      0xbaa src/include/port.o
+                               0xa0b5 (size before relaxing)
+ .debug_str     0x0000ae71      0x1d9 src/include/rs232int.o
+                                0x3d6 (size before relaxing)
+ .debug_str     0x0000b04a      0x16d src/include/taskbase.o
+                                0x46b (size before relaxing)
+ .debug_str     0x0000b1b7      0x53f src/include/taskbase_status.o
+                                0x911 (size before relaxing)
+ .debug_str     0x0000b6f6     0x161a src/include/tasks.o
+                               0xac7a (size before relaxing)
+ .debug_str     0x0000cd10       0x3e src/main_mega.o
+                                0x2f1 (size before relaxing)
+
+.debug_loc      0x00000000     0x1ed8
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x17a src/ATMega/fifth_wheel.o
+ .debug_loc     0x0000017a       0x90 src/ATMega/servo.o
+ .debug_loc     0x0000020a      0x2d0 src/include/emstream.o
+ .debug_loc     0x000004da      0x14c src/include/heap_2.o
+ .debug_loc     0x00000626      0x167 src/include/list.o
+ .debug_loc     0x0000078d      0x233 src/include/mechutil.o
+ .debug_loc     0x000009c0      0x105 src/include/port.o
+ .debug_loc     0x00000ac5      0x2ae src/include/rs232int.o
+ .debug_loc     0x00000d73      0x252 src/include/taskbase.o
+ .debug_loc     0x00000fc5      0x20b src/include/taskbase_status.o
+ .debug_loc     0x000011d0      0xc4b src/include/tasks.o
+ .debug_loc     0x00001e1b       0xbd src/main_mega.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x390
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x28 src/ATMega/fifth_wheel.o
+ .debug_ranges  0x00000028       0x18 src/ATMega/servo.o
+ .debug_ranges  0x00000040       0x58 src/include/emstream.o
+ .debug_ranges  0x00000098       0x30 src/include/heap_2.o
+ .debug_ranges  0x000000c8       0x30 src/include/list.o
+ .debug_ranges  0x000000f8       0x48 src/include/mechutil.o
+ .debug_ranges  0x00000140       0x40 src/include/port.o
+ .debug_ranges  0x00000180       0x58 src/include/rs232int.o
+ .debug_ranges  0x000001d8       0x40 src/include/taskbase.o
+ .debug_ranges  0x00000218       0x38 src/include/taskbase_status.o
+ .debug_ranges  0x00000250      0x130 src/include/tasks.o
+ .debug_ranges  0x00000380       0x10 src/main_mega.o
+
+.debug_macro    0x00000000      0x643
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x120 src/include/heap_2.o
+ .debug_macro   0x00000120       0xf3 src/include/list.o
+ .debug_macro   0x00000213      0x12d src/include/port.o
+ .debug_macro   0x00000340       0x63 src/include/port.o
+ .debug_macro   0x000003a3       0xeb src/include/port.o
+ .debug_macro   0x0000048e      0x19f src/include/tasks.o
+ .debug_macro   0x0000062d       0x16 src/include/tasks.o
+OUTPUT(ME507.elf elf32-avr)
+LOAD linker stubs
